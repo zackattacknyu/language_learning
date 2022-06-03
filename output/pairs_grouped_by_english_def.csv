@@ -1,0 +1,333 @@
+Korean,English,word_in_English_def,num_definitions_with_word
+한,one (when modifying a counting unit that follows),one,7
+하루,one day,one,7
+하나,one,one,7
+저거,that (one),one,7
+일,one,one,7
+이거,this (one),one,7
+그거,that (one),one,7
+학생,student,student,6
+초등학생,elementary school student,student,6
+중학생,middle school student,student,6
+대학생,university student,student,6
+대학생,college student,student,6
+고등학생,high school student,student,6
+저분,that person (honorific),person,6
+이분,this person (honorific),person,6
+사람,person,person,6
+사람,"human, person",person,6
+뒷사람,person behind,person,6
+그분,that person (honorific),person,6
+전혀,not at all,not,6
+재미없다,not interesting,not,6
+없다,not to have,not,6
+안,not,not,6
+아직,"(not) yet, still",not,6
+별로,"not really, not particularly",not,6
+저분,that person (honorific),honorific,6
+이분,this person (honorific),honorific,6
+성함,name (honorific),honorific,6
+드시다,to eat (honorific),honorific,6
+그분,that person (honorific),honorific,6
+계시다,to be/to stay (honorific),honorific,6
+잔,counting unit for glasses or cups,counting_unit,6
+살,-years old/counting unit for age | flesh,counting_unit,6
+병,counting unit for bottles,counting_unit,6
+번,counting unit after number,counting_unit,6
+명,counting unit for people,counting_unit,6
+개,counting unit for general items,counting_unit,6
+출근하다,to go to work,work,5
+일하다,to work,work,5
+일,work,work,5
+운동하다,to exercise / to work out,work,5
+다니다,to go to (a company) / to work for,work,5
+어떤,what kind of,what,5
+뭘,what (object),what,5
+뭐,what,what,5
+무슨,what kind of,what,5
+며칠,what date,what,5
+찍다,to take (a picture),take,5
+샤워하다,to take a shower,take,5
+벗다,to take off,take,5
+받다,to receive /to take /to get,take,5
+걸리다,to take (time),take,5
+학교,school,school,5
+초등학생,elementary school student,school,5
+중학생,middle school student,school,5
+방학,school holidays,school,5
+고등학생,high school student,school,5
+타다,to get on to ride,on,5
+입다,to wear / to put on,on,5
+위,above / on,on,5
+쓰다,to wear /to put on (a hat),on,5
+신다,to put on (shoes),on,5
+한국어,Korean (language),language,5
+프랑스어,French (language),language,5
+중국어,Chinese (language),language,5
+일본어,Japanese (language),language,5
+영어,English (language),language,5
+형,older brother,brother,5
+형,elder brother from a male perspective,brother,5
+오빠,elder brother from a female perspective,brother,5
+동생,younger brother or sister,brother,5
+남동생,younger brother,brother,5
+한복,hanbok (traditional Korean costume),Korean,5
+한국어,Korean (language),Korean,5
+추석,the Korean Thanksgiving,Korean,5
+원,KRW / won (Korean money),Korean,5
+온돌방,traditional Korean room / hot-floored room,Korean,5
+한,one (when modifying a counting unit that follows),when_modifying_a_counting_unit_that_follows,4
+세,three (when modifying a counting unit that follows),when_modifying_a_counting_unit_that_follows,4
+두,two (when modifying a counting unit that follows),when_modifying_a_counting_unit_that_follows,4
+네,four (when modifying a counting unit that follows),when_modifying_a_counting_unit_that_follows,4
+이번,this time,time,4
+시간표,time table,time,4
+나중에,"later, next time",time,4
+걸리다,to take (time),time,4
+여동생,younger sister,sister,4
+언니,elder sister (female pov),sister,4
+동생,younger brother or sister,sister,4
+누나,elder sister from a male perspective,sister,4
+얼마나,how long,how,4
+얼마,how much,how,4
+어떻게,how,how,4
+몇,how many,how,4
+출근하다,to go to work,go,4
+들어가다,to go in to enter,go,4
+다니다,to go to (a company) / to work for,go,4
+가다,to go,go,4
+타다,to get on to ride,get,4
+일어나다,to get up,get,4
+받다,to receive /to take /to get,get,4
+내리다,to get off,get,4
+형,elder brother from a male perspective,elder,4
+오빠,elder brother from a female perspective,elder,4
+언니,elder sister (female pov),elder,4
+누나,elder sister from a male perspective,elder,4
+하루,one day,day,4
+일,day,day,4
+요일,a day of the week,day,4
+매일,every day,day,4
+여동생,younger sister,younger,3
+동생,younger brother or sister,younger,3
+남동생,younger brother,younger,3
+이렇게,like this /in this way,way,3
+길,road / way,way,3
+그런데,but/ by the way,way,3
+이,two,two,3
+둘,two,two,3
+두,two (when modifying a counting unit that follows),two,3
+여행하다,to travel,travel,3
+여행사,travel agency,travel,3
+여행,trip travel,travel,3
+셋,three,three,3
+세,three (when modifying a counting unit that follows),three,3
+삼,three,three,3
+홍차,black tea,tea,3
+차,tea,tea,3
+녹차,green tea,tea,3
+호선,subway line number,subway,3
+지하철역,subway station,subway,3
+지하철,subway,subway,3
+왼쪽,left side,side,3
+오른쪽,right side,side,3
+옆,beside side,side,3
+신발,shoes,shoes,3
+신다,to put on (shoes),shoes,3
+구두,dress shoes,shoes,3
+부치다,to send / to mail,send,3
+보내다,to send / to mail,send,3
+보내다,to send,send,3
+화장실,rest room,room,3
+온돌방,traditional Korean room / hot-floored room,room,3
+방,room with a bed,room,3
+참,very / really,really,3
+정말,"really, truly",really,3
+별로,"not really, not particularly",really,3
+입다,to wear / to put on,put,3
+쓰다,to wear /to put on (a hat),put,3
+신다,to put on (shoes),put,3
+형,elder brother from a male perspective,perspective,3
+오빠,elder brother from a female perspective,perspective,3
+누나,elder sister from a male perspective,perspective,3
+호선,subway line number,number,3
+전화번호,telephone number,number,3
+번,counting unit after number,number,3
+콧물,runny nose,nose,3
+코,nose,nose,3
+나다,to have (a fever/a runny nose),nose,3
+얼마,how much,much,3
+많이,many much,much,3
+많다,many / much,much,3
+몇,how many,many,3
+많이,many much,many,3
+많다,many / much,many,3
+형,elder brother from a male perspective,male,3
+누나,elder sister from a male perspective,male,3
+남자,man male,male,3
+착하다,to be kind,kind,3
+어떤,what kind of,kind,3
+무슨,what kind of,kind,3
+있다,to have,have,3
+없다,not to have,have,3
+나다,to have (a fever/a runny nose),have,3
+형,elder brother from a male perspective,from,3
+오빠,elder brother from a female perspective,from,3
+누나,elder sister from a male perspective,from,3
+사,four,four,3
+넷,four,four,3
+네,four (when modifying a counting unit that follows),four,3
+오빠,elder brother from a female perspective,female,3
+여자,woman female,female,3
+언니,elder sister (female pov),female,3
+회사원,company employee,company,3
+회사,company,company,3
+다니다,to go to (a company) / to work for,company,3
+춥다,cold,cold,3
+찬물,cold water,cold,3
+감기,cold,cold,3
+시청역,City Hall Station,Station,3
+삼성역,Samseong Station,Station,3
+명동역,Myeongdong Station,Station,3
+작년,last year,year,2
+년,year,year,2
+고민,agony / worry,worry,2
+걱정,worry / concern,worry,2
+누구,who,who,2
+누가,who,who,2
+주일,week,week,2
+요일,a day of the week,week,2
+입다,to wear / to put on,wear,2
+쓰다,to wear /to put on (a hat),wear,2
+찬물,cold water,water,2
+물,water,water,2
+시계,watch / clock,watch,2
+보다,"to see, to watch, to look at",watch,2
+투표하다,to vote,vote,2
+투표,vote,vote,2
+참,very / really,very,2
+아주,"very, quite",very,2
+이용,use,use,2
+사용하다,to use,use,2
+기차표,train ticket,train,2
+기차,train,train,2
+한복,hanbok (traditional Korean costume),traditional,2
+온돌방,traditional Korean room / hot-floored room,traditional,2
+오늘,today,today,2
+아까,"earlier (today), a while ago (today)",today,2
+표,ticket,ticket,2
+기차표,train ticket,ticket,2
+천,thousand,thousand,2
+십만,hundred thousand,thousand,2
+열,ten,ten,2
+십,ten,ten,2
+수영장,swimming pool,swimming,2
+수영,swimming,swimming,2
+공부하다,to study,study,2
+공부,study / learning,study,2
+백화점,department store,store,2
+가게,store / shop,store,2
+육,six,six,2
+여섯,six,six,2
+커피숍,coffee shop,shop,2
+가게,store / shop,shop,2
+칠,seven,seven,2
+일곱,seven,seven,2
+콧물,runny nose,runny,2
+나다,to have (a fever/a runny nose),runny,2
+오른쪽,right side,right,2
+맞다,right,right,2
+화장실,rest room,rest,2
+쉬다,to rest,rest,2
+찍다,to take (a picture),picture,2
+그림,picture / drawing,picture,2
+핸드폰,mobile phone,phone,2
+전화,cellular phone/mobile,phone,2
+한번,once,once,2
+또,again / once more,once,2
+우체국,post office,office,2
+사무실,office,office,2
+벗다,to take off,off,2
+내리다,to get off,off,2
+아홉,nine,nine,2
+구,nine,nine,2
+다음,next,next,2
+나중에,"later, next time",next,2
+이름,name,name,2
+성함,name (honorific),name,2
+제,my,my,2
+내,my,my,2
+영화,movie,movie,2
+극장,movie theater,movie,2
+산,mountain,mountain,2
+등산,mountain climbing / hiking,mountain,2
+오전,morning / a.m.,morning,2
+아침,morning,morning,2
+또,again / once more,more,2
+더,more,more,2
+월,month,month,2
+달,month,month,2
+원,KRW / won (Korean money),money,2
+돈,money,money,2
+핸드폰,mobile phone,mobile,2
+전화,cellular phone/mobile,mobile,2
+부치다,to send / to mail,mail,2
+보내다,to send / to mail,mail,2
+주차장,parking lot,lot,2
+많이,a lot,lot,2
+찾다,to look for,look,2
+보다,"to see, to watch, to look at",look,2
+얼마나,how long,long,2
+길다,long,long,2
+좋아하다,to like,like,2
+이렇게,like this /in this way,like,2
+지난,last,last,2
+작년,last year,last,2
+재미있다,interesting,interesting,2
+재미없다,not interesting,interesting,2
+아프다,ill /in pain hurt,hurt,2
+다치다,to be hurt,hurt,2
+십만,hundred thousand,hundred,2
+백,hundred,hundred,2
+맵다,hot and spicy,hot,2
+덥다,hot,hot,2
+숙제하다,to do homework,homework,2
+숙제,homework,homework,2
+높다,high,high,2
+고등학생,high school student,high,2
+쓰다,to wear /to put on (a hat),hat,2
+모자,hat / cap,hat,2
+녹차,green tea,green,2
+녹색,green,green,2
+좋다,good,good,2
+잘하다,be good at,good,2
+오,five,five,2
+다섯,five,five,2
+생선회,sliced raw fish,fish,2
+생선,fish,fish,2
+열,fever,fever,2
+나다,to have (a fever/a runny nose),fever,2
+운동하다,to exercise / to work out,exercise,2
+운동,exercise / workout,exercise,2
+팔,eight,eight,2
+여덟,eight,eight,2
+먹다,to eat,eat,2
+드시다,to eat (honorific),eat,2
+앉다,to sit down,down,2
+넘어지다,fall down,down,2
+커피숍,coffee shop,coffee,2
+커피,coffee,coffee,2
+피우다,to smoke (a cigarette),cigarette,2
+담배,cigarette,cigarette,2
+그렇지만,but,but,2
+그런데,but/ by the way,but,2
+홍차,black tea,black,2
+까만색,black,black,2
+뒷사람,person behind,behind,2
+뒤,behind,behind,2
+침대,bed,bed,2
+방,room with a bed,bed,2
+은행원,bank clerk,bank,2
+은행,bank,bank,2
+영국,the United Kingdom,United,2
+미국,the United States of America,United,2

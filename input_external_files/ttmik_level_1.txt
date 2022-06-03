@@ -1,0 +1,55 @@
+water 물
+milk 우유
+coffee 커피
+tea 차
+steamed rice, meal 밥
+human, person 사람
+friend 친구
+student 학생
+bag 가방
+book 책
+mobile phone 핸드폰
+computer 컴퓨터
+car 차
+house, home 집
+office 사무실
+school 학교
+news 뉴스
+movie 영화
+
+Verb
+to do 하다
+to go 가다
+to come 오다
+to see, to watch, to look at 보다
+to eat 먹다
+to buy 사다
+to sleep 자다
+to read 읽다
+to work 일하다
+to study 공부하다
+to clean 청소하다
+to cook 요리하다
+to exercise 운동하다
+to love 사랑하다
+
+Descriptive Verb
+to be nice, to be stylish 멋있다
+to be fun, to be interesting 재미있다
+to be strange 이상하다
+to be big 크다
+to be heavy 무겁다
+to be hungry 배고프다
+to be spicy 맵다
+to be hurting 아프다
+
+Adverb
+how 어떻게
+why 왜
+when 언제
+today 오늘
+yesterday 어제
+tomorrow 내일
+now 지금
+earlier (today), a while ago (today) 아까
+later, next time 나중에
