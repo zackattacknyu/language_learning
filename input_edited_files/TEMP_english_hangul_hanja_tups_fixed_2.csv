@@ -1,0 +1,584 @@
+Korean,hanja_word_with_x,English_1,English_2,differing_English
+휴대,携帶,being portable,,True
+형,X,elder brother from male pov,older brother,True
+피곤하다,X,tired,to be tired,True
+포도,葡萄,grape,grape(s),True
+팔,X,arm | eight,arm,True
+크다,X,big,to be big,True
+춥다,X,cold,to be cold,True
+착하다,X,to be kind / good-natured,good-natured,True
+차,X,car | tea,car,True
+집,X,house,"house, home",True
+정말,X,"really, truly",really,True
+전화,電話,cellular phone | telephone,cellular phone / telephone,True
+저,X,he / she | that,that,True
+재미있다,X,interesting,"to be fun, to be interesting",True
+작다,X,small,to be small,True
+입다,X,to wear / to put on,"to put on, to wear",True
+일,X,one | day | work,one,True
+이,X,this | two,this,True
+운동하다,X,to exercise / to work out,to exercise,True
+우리,X,we / our,our,True
+예술의,X,arts,,True
+예쁘다,X,pretty,to be pretty,True
+열,X,ten | fever,fever,True
+언니,X,elder sister (female pov),elder sister from a female perspective,True
+안,X,inside | not,not,True
+아프다,X,to be hurting / ill / in pain / hurt,ill /in pain hurt,True
+아주,X,"very / quite",very,True
+쓰다,X,to wear / to put on (a hat) | to write,to write,True
+살,X,-years old/counting unit for age | flesh,flesh,True
+사람,X,"human / person",person,True
+비싸다,X,expensive,to be expensive,True
+분,X,minute,minute(s),True
+보다,X,"to see / to watch / to look at",to see / to watch,True
+보내다,X,to send / to mail,to send,True
+배고프다,X,hungry,to be hungry,True
+배,X,"abdomen / stomach | ship/boat",ship/boat,True
+방,X,room with a bed,room,True
+밥,X,"steamed rice | meal",steamed rice,True
+바쁘다,X,busy,to be busy,True
+바꾸다,X,to change | to exchange,to exchange,True
+뭘,X,what (object),what,True
+무슨,X,what kind of,what,True
+무섭다,X,scary,to be scary,True
+무겁다,X,heavy,to be heavy,True
+목,X,neck / throat / body,neck throat 予 body,True
+멀다,X,far,to be far,True
+맵다,X,hot and spicy,to be spicy,True
+매일,每日,every day,everyday,True
+많이,X,a lot / many / much,many much,True
+듣다,X,to listen / to hear -들 plural marker,to listen to hear -들 plural marker,True
+덥다,X,hot,to be hot,True
+대학생,大學生,university student,college student,True
+눈,X,eye | snow,eye,True
+나쁘다,X,bad,to be bad,True
+길다,X,long,to be long,True
+힘들다,X,laborous hard,laborous hard,False
+휴가,休暇,leave / vacation,leave / vacation,False
+회의하다,X,to hold a meeting,to hold a meeting,False
+회색,灰色,grey,grey,False
+회사원,會社員,company employee,company employee,False
+회사,會社,company,company,False
+화장실,化粧室,rest room,rest room,False
+화요일,火曜日,Tuesday,Tuesday,False
+홍차,紅茶,black tea,black tea,False
+혼자,X,alone,alone,False
+호텔,X,hotel,hotel,False
+호주,濠洲,Australia,Australia,False
+호선,號線,subway line number,subway line number,False
+허리,X,waist,waist,False
+햄버거,X,hamburger,hamburger,False
+핸드폰,X,mobile phone,mobile phone,False
+항상,恒常,always,always,False
+할아버지,X,grandfather,grandfather,False
+할머니,X,grandmother,grandmother,False
+한복,韓服,hanbok (traditional Korean costume),hanbok (traditional Korean costume),False
+한번,X,once,once,False
+한라산,漢拏山,Hallasan,Hallasan,False
+한국어,韓國語,Korean (language),Korean (language),False
+한국,韓國,Korea,Korea,False
+한,X,one (when modifying a counting unit that follows),one (when modifying a counting unit that follows),False
+학생,學生,student,student,False
+학교,學校,school,school,False
+하얀색,X,white,white,False
+하루,X,one day,one day,False
+하다,X,to do,to do,False
+하나,X,one,one,False
+피자,X,pizza,pizza,False
+피우다,X,to smoke (a cigarette),to smoke (a cigarette),False
+피아노,X,piano,piano,False
+피라미드,X,pyramid,pyramid,False
+피곤하다,X,tired,tired,False
+피,X,blood,blood,False
+프랑스어,X,French (language),French (language),False
+프랑스,X,France,France,False
+표,X,ticket,ticket,False
+포크,X,fork,fork,False
+편하다,X,comfortable,comfortable,False
+편지,便紙,letter,letter,False
+파티,X,party,party,False
+파리,X,Paris,Paris,False
+파란색,X,blue,blue,False
+티셔츠,X,T-shirt,T-shirt,False
+특히,X,especially,especially,False
+투표하다,X,to vote,to vote,False
+투표,投票,vote,vote,False
+토요일,土曜日,Saturday,Saturday,False
+텔레비전,X,television,television,False
+테니스,X,tennis,tennis,False
+택시,X,taxi,taxi,False
+태권도,跆拳道,taekwondo,taekwondo,False
+타다,X,to get on to ride,to get on to ride,False
+크다,X,big,big,False
+콧물,X,runny nose,runny nose,False
+콜라,X,cola,cola,False
+코트,X,coat,coat,False
+코,X,nose,nose,False
+케이크,X,cake,cake,False
+컴퓨터,X,computer,computer,False
+커피숍,X,coffee shop,coffee shop,False
+커피,X,coffee,coffee,False
+캐나다,X,Canada,Canada,False
+카메라,X,camera,camera,False
+침대,寢臺,bed,bed,False
+칠,X,seven,seven,False
+친구,親舊,friend,friend,False
+치마,X,skirt,skirt,False
+치다,X,to play / to hit / to strike,to play / to hit / to strike,False
+층,X,floor,floor,False
+춥다,X,cold,cold,False
+춤추다,X,to dance,to dance,False
+출발하다,X,to depart,to depart,False
+출발,出發,departure,departure,False
+출근하다,X,to go to work,to go to work,False
+축구,蹴球,soccer,soccer,False
+추석,秋夕,the Korean Thanksgiving,the Korean Thanksgiving,False
+초등학생,初等學生,elementary school student,elementary school student,False
+청소하다,X,to clean,to clean,False
+청소,淸掃,cleaning,cleaning,False
+청바지,X,jeans,jeans,False
+천,X,thousand,thousand,False
+책상,冊床,desk,desk,False
+책방,冊房,bookstore,bookstore,False
+책,X,book,book,False
+찾다,X,to look for,to look for,False
+창문,窓門,window,window,False
+참,X,very / really,very / really,False
+찬물,X,cold water,cold water,False
+찍다,X,to take (a picture),to take (a picture),False
+찌다,X,to gain (weight),to gain (weight),False
+쯤,X,about / around,about / around,False
+짧다,X,short,short,False
+집안일,X,chores,chores,False
+집,X,house,house,False
+질문,質問,question,question,False
+직원,職員,staff,staff,False
+직업,職業,job/ occupation,job/ occupation,False
+지하철역,地下鐵驛,subway station,subway station,False
+지하철,地下鐵,subway,subway,False
+지우개,X,eraser,eraser,False
+지난,至難,last,last,False
+지금,只今,now,now,False
+지갑,紙匣,wallet,wallet,False
+중학생,中學生,middle school student,middle school student,False
+중국어,中國語,Chinese (language),Chinese (language),False
+중국,中國,China,China,False
+준비하다,X,to prepare,to prepare,False
+주차장,駐車場,parking lot,parking lot,False
+주일,週日,week,week,False
+주스,X,juice,juice,False
+주소,住所,address,address,False
+주말,週末,weekend,weekend,False
+주다,X,to give,to give,False
+좋아하다,X,to like,to like,False
+좋다,X,good,good,False
+좀,X,please,please,False
+조금,X,"a little, a bit, a little bit","a little, a bit, a little bit",False
+제주도,濟州島,Jeju Island,Jeju Island,False
+제,X,my,my,False
+정말,X,"really, truly","really, truly",False
+젓가락,X,chopsticks,chopsticks,False
+점심,點心,lunch,lunch,False
+전화하다,X,to call,to call,False
+전화번호,電話番號,telephone number,telephone number,False
+전혀,X,not at all,not at all,False
+저분,X,that person (honorific),that person (honorific),False
+저녁,X,evening,evening,False
+저거,X,that (one),that (one),False
+재미있다,X,interesting,interesting,False
+재미없다,X,not interesting,not interesting,False
+장미,薔薇,rose,rose,False
+잘하다,X,be good at,be good at,False
+잔,X,counting unit for glasses or cups,counting unit for glasses or cups,False
+작다,X,small,small,False
+작년,昨年,last year,last year,False
+자주,自主,often,often,False
+자전거,自轉車,bicycle,bicycle,False
+자리,X,seat place,seat place,False
+자다,X,to sleep,to sleep,False
+있다,X,to have,to have,False
+입다,X,to wear / to put on,to wear / to put on,False
+읽다,X,to read,to read,False
+일하다,X,to work,to work,False
+일요일,日曜日,Sunday,Sunday,False
+일어나다,X,to get up,to get up,False
+일본어,日本語,Japanese (language),Japanese (language),False
+일기,日記,diary,diary,False
+일곱,X,seven,seven,False
+인천공항,仁川空港,Incheon Airport,Incheon Airport,False
+인사동,X,Insa-dong,Insa-dong,False
+이용,利用,use,use,False
+이야기하다,X,to talk,to talk,False
+이상하다,X,to be strange,to be strange,False
+이분,X,this person (honorific),this person (honorific),False
+이번,X,this time,this time,False
+이메일,X,e-mail,e-mail,False
+이름,X,name,name,False
+이렇게,X,like this /in this way,like this /in this way,False
+이거,X,this (one),this (one),False
+의자,椅子,chair,chair,False
+의사,醫師,doctor,doctor,False
+음악,音樂,music,music,False
+음식,飮食,food,food,False
+은행원,銀行員,bank clerk,bank clerk,False
+은행,銀行,bank,bank,False
+육,X,six,six,False
+유럽,X,Europe,Europe,False
+위,X,above / on,above / on,False
+월요일,月曜日,Monday,Monday,False
+월,X,month,month,False
+원,X,KRW / won (Korean money),KRW / won (Korean money),False
+운전하다,X,to drive,to drive,False
+운전,運轉,driving,driving,False
+운동하다,X,to exercise / to work out,to exercise / to work out,False
+운동,運動,exercise / workout,exercise / workout,False
+우체국,郵遞局,post office,post office,False
+우유,牛乳,milk,milk,False
+우산,雨傘,umbrella,umbrella,False
+우리,X,we / our,we / our,False
+요즘,X,these days nowadays,these days nowadays,False
+요일,曜日,a day of the week,a day of the week,False
+요리하다,X,to cook,to cook,False
+요리사,料理師,chef,chef,False
+요리,料理,cooking,cooking,False
+요금,料金,fare charge,fare charge,False
+왼쪽,X,left side,left side,False
+외국,外國,foreign country,foreign country,False
+왜,X,why,why,False
+옷장,X,wardrobe / closet,wardrobe / closet,False
+옷,X,clothes,clothes,False
+온돌방,溫突房,traditional Korean room / hot-floored room,traditional Korean room / hot-floored room,False
+오후,午後,afternoon / p.m.,afternoon / p.m.,False
+오전,午前,morning / a.m.,morning / a.m.,False
+오월,五月,May,May,False
+오빠,X,elder brother from a female perspective,elder brother from a female perspective,False
+오른쪽,X,right side,right side,False
+오렌지,X,orange,orange,False
+오다,X,to come,to come,False
+오늘,X,today,today,False
+오,X,five,five,False
+예약하다,X,to reserve,to reserve,False
+예쁘다,X,pretty,pretty,False
+옆,X,beside side,beside side,False
+영화,映畵,movie,movie,False
+영어,英語,English (language),English (language),False
+영국,英國,the United Kingdom,the United Kingdom,False
+엽서,葉書,postcard,postcard,False
+열다,X,to open,to open,False
+연필,鉛筆,pencil,pencil,False
+연구원,硏究員,researcher,researcher,False
+여행하다,X,to travel,to travel,False
+여행사,旅行社,travel agency,travel agency,False
+여행,旅行,trip travel,trip travel,False
+여자,女子,woman female,woman female,False
+여섯,X,six,six,False
+여동생,女同生,younger sister,younger sister,False
+여덟,X,eight,eight,False
+여기,X,here,here,False
+없다,X,not to have,not to have,False
+얼마나,X,how long,how long,False
+얼마,X,how much,how much,False
+언제,X,when,when,False
+어제,X,yesterday,yesterday,False
+어머니,X,mother,mother,False
+어렵다,X,difficult,difficult,False
+어떻게,X,how,how,False
+어떤,X,what kind of,what kind of,False
+어디,X,where,where,False
+어깨,X,shoulder,shoulder,False
+약속,約束,appointment,appointment,False
+약국,藥局,pharmacy,pharmacy,False
+약,X,medicine,medicine,False
+야채,野菜,vegetable,vegetable,False
+야구,野球,baseball,baseball,False
+앞,X,front,front,False
+앉다,X,to sit down,to sit down,False
+안내,案內,information guide,information guide,False
+악수하다,X,to shake hands,to shake hands,False
+아홉,X,nine,nine,False
+아프리카,X,Africa,Africa,False
+아침,X,morning,morning,False
+아직,X,"(not) yet, still","(not) yet, still",False
+아이스크림,X,ice cream,ice cream,False
+아이,X,child,child,False
+아버지,X,father,father,False
+아래,X,under / below,under / below,False
+아들,X,son,son,False
+아내,X,wife,wife,False
+아까,X,"earlier (today), a while ago (today)","earlier (today), a while ago (today)",False
+아기,X,baby,baby,False
+씨,X,"Mr., Miss, Mrs., Ms.","Mr., Miss, Mrs., Ms.",False
+싸다,X,cheap,cheap,False
+십일월,十一月,November,November,False
+십이월,十二月,December,December,False
+십만,十萬,hundred thousand,hundred thousand,False
+십,X,ten,ten,False
+심심하다,X,bored,bored,False
+신발,X,shoes,shoes,False
+신문,新聞,newspaper,newspaper,False
+신다,X,to put on (shoes),to put on (shoes),False
+식당,食堂,restaurant,restaurant,False
+시험,試驗,test,test,False
+시청역,X,City Hall Station,City Hall Station,False
+시청,市廳,city hall,city hall,False
+시장,市場,market,market,False
+시월,十月,October,October,False
+시내,市內,downtown,downtown,False
+시끄럽다,X,noisy,noisy,False
+시계,時計,watch / clock,watch / clock,False
+시간표,時間表,time table,time table,False
+시간,時間,hour,hour,False
+시,X,o'clock,o'clock,False
+슬프다,X,sad,sad,False
+스파게티,X,spaghetti,spaghetti,False
+스키장,X,ski resort,ski resort,False
+스키,X,skiing,skiing,False
+쉽다,X,easy,easy,False
+쉬다,X,to rest,to rest,False
+술,X,liquor,liquor,False
+숟가락,X,spoon,spoon,False
+숙제하다,X,to do homework,to do homework,False
+숙제,宿題,homework,homework,False
+수요일,水曜日,Wednesday,Wednesday,False
+수영하다,X,to swim,to swim,False
+수영장,水泳場,swimming pool,swimming pool,False
+수영,水泳,swimming,swimming,False
+손님,X,customer / guest,customer / guest,False
+손,X,hand,hand,False
+소포,小包,parcel,parcel,False
+소파,X,sofa,sofa,False
+셋,X,three,three,False
+세탁소,洗濯所,dry cleaner's,dry cleaner's,False
+세일,X,sale,sale,False
+세우다,X,to stop,to stop,False
+세,X,three (when modifying a counting unit that follows),three (when modifying a counting unit that follows),False
+성함,姓銜,name (honorific),name (honorific),False
+선생님,X,teacher,teacher,False
+서울,X,Seoul,Seoul,False
+샤워하다,X,to take a shower,to take a shower,False
+생일,生日,birthday,birthday,False
+생선회,生鮮膾,sliced raw fish,sliced raw fish,False
+생선,生鮮,fish,fish,False
+생각,X,thinking / thought,thinking / thought,False
+색,X,color,color,False
+삼월,三月,March,March,False
+삼성역,X,Samseong Station,Samseong Station,False
+삼,X,three,three,False
+살다,X,to live,to live,False
+산,X,mountain,mountain,False
+사진,寫眞,photograph,photograph,False
+사전,辭典,dictionary,dictionary,False
+사월,四月,April,April,False
+사용하다,X,to use,to use,False
+사무실,事務室,office,office,False
+사랑하다,X,to love,to love,False
+사다,X,to buy,to buy,False
+사과,沙果,apple,apple,False
+사,X,four,four,False
+빵,X,bread,bread,False
+빨리,X,quickly,quickly,False
+빨래하다,X,to do laundry,to do laundry,False
+빨간색,X,red,red,False
+빠르다,X,to be fast,to be fast,False
+빌딩,X,building,building,False
+비행기,飛行機,airplane,airplane,False
+비싸다,X,expensive,expensive,False
+비빔밥,X,bibimbap,bibimbap,False
+비,X,rain,rain,False
+브라질,X,Brasil,Brasil,False
+불고기,X,bulgogi,bulgogi,False
+부치다,X,to send / to mail,to send / to mail,False
+부엌,X,kitchen,kitchen,False
+부산,釜山,Busan,Busan,False
+볼펜,X,ball-point pen,ball-point pen,False
+복잡하다,X,crowded jammed,crowded jammed,False
+병원,病院,hospital,hospital,False
+병,X,counting unit for bottles,counting unit for bottles,False
+별로,X,"not really, not particularly","not really, not particularly",False
+베트남,X,Vietnam,Vietnam,False
+베이징,X,Beijing,Beijing,False
+벗다,X,to take off,to take off,False
+벌써,X,already,already,False
+번,X,counting unit after number,counting unit after number,False
+버스,X,bus,bus,False
+백화점,百貨店,department store,department store,False
+백,X,hundred,hundred,False
+배우다,X,to learn,to learn,False
+배고프다,X,hungry,hungry,False
+방학,放學,school holidays,school holidays,False
+방콕,X,Bangkok,Bangkok,False
+방,X,room with a bed,room with a bed,False
+발,X,foot,foot,False
+받다,X,to receive /to take /to get,to receive /to take /to get,False
+반,X,half,half,False
+밖,X,outside,outside,False
+바지,X,trousers pants,trousers pants,False
+바쁘다,X,busy,busy,False
+바다,X,sea ocean,sea ocean,False
+바나나,X,banana,banana,False
+미안하다,X,sorry,sorry,False
+미국,美國,the United States of America,the United States of America,False
+뭐,X,what,what,False
+물,X,water,water,False
+문,X,door,door,False
+무슨,X,what kind of,what kind of,False
+무섭다,X,scary,scary,False
+무겁다,X,heavy,heavy,False
+목요일,木曜日,Thursday,Thursday,False
+모자,帽子,hat / cap,hat / cap,False
+몇,X,how many,how many,False
+명동역,X,Myeongdong Station,Myeongdong Station,False
+명동,鳴動,Myeong-dong,Myeong-dong,False
+명,X,counting unit for people,counting unit for people,False
+며칠,X,what date,what date,False
+메뉴,X,menu,menu,False
+멋있다,X,"to be nice, to be stylish","to be nice, to be stylish",False
+멀다,X,far,far,False
+먹다,X,to eat,to eat,False
+머리,X,head,head,False
+맵다,X,hot and spicy,hot and spicy,False
+맥주,麥酒,beer,beer,False
+맞다,X,right,right,False
+맛있다,X,tasty / delicious,tasty / delicious,False
+맛없다,X,untasty,untasty,False
+말하기,X,speaking,speaking,False
+말레이시아,X,Malaysia,Malaysia,False
+많다,X,many / much,many / much,False
+만지다,X,to touch,to touch,False
+만들다,X,to make,to make,False
+만나다,X,to meet,to meet,False
+마드리드,X,Madrid,Madrid,False
+로마,X,Rome,Rome,False
+런던,X,London,London,False
+똑똑하다,X,smart,smart,False
+또,X,again / once more,again / once more,False
+땀,X,sweat,sweat,False
+딸,X,daughter,daughter,False
+따뜻하다,X,warm,warm,False
+등산,登山,mountain climbing / hiking,mountain climbing / hiking,False
+들어가다,X,to go in to enter,to go in to enter,False
+들다,X,to be contained,to be contained,False
+드시다,X,to eat (honorific),to eat (honorific),False
+드라마,X,drama (TV series),drama (TV series),False
+뒷사람,X,person behind,person behind,False
+뒤,X,behind,behind,False
+둘,X,two,two,False
+두,X,two (when modifying a counting unit that follows),two (when modifying a counting unit that follows),False
+동생,同生,younger brother or sister,younger brother or sister,False
+돈,X,money,money,False
+독일,獨逸,Germany,Germany,False
+도쿄,X,Tokyo,Tokyo,False
+도착하다,X,to arrive,to arrive,False
+도와주다,X,to help,to help,False
+도서관,圖書館,library,library,False
+덥다,X,hot,hot,False
+더,X,more,more,False
+담배,X,cigarette,cigarette,False
+달리다,X,to run,to run,False
+달러,X,dollar,dollar,False
+달,X,month,month,False
+닫다,X,to close,to close,False
+다치다,X,to be hurt,to be hurt,False
+다이어트,X,diet,diet,False
+다음,X,next,next,False
+다섯,X,five,five,False
+다리,X,leg,leg,False
+다른,X,other,other,False
+다니다,X,to go to (a company) / to work for,to go to (a company) / to work for,False
+늦다,X,to be late,to be late,False
+뉴욕,X,New York,New York,False
+뉴스,X,news,news,False
+눈사람,X,snowman,snowman,False
+누나,X,elder sister from a male perspective,elder sister from a male perspective,False
+누구,X,who,who,False
+누가,X,who,who,False
+높다,X,high,high,False
+녹차,綠茶,green tea,green tea,False
+녹색,綠色,green,green,False
+노래하다,X,to sing,to sing,False
+노란색,X,yellow,yellow,False
+년,X,year,year,False
+넷,X,four,four,False
+네,X,four (when modifying a counting unit that follows),four (when modifying a counting unit that follows),False
+넘어지다,X,fall down,fall down,False
+너무,X,too,too,False
+냉장고,冷藏庫,refrigerator,refrigerator,False
+냉면,冷麵,naengmyeon,naengmyeon,False
+내일,來日,tomorrow,tomorrow,False
+내리다,X,to get off,to get off,False
+내다,X,to pay,to pay,False
+내,X,my,my,False
+낮다,X,low,low,False
+남편,男便,husband,husband,False
+남자,男子,man male,man male,False
+남동생,X,younger brother,younger brother,False
+날씨,X,weather,weather,False
+나중에,X,"later, next time","later, next time",False
+나쁘다,X,bad,bad,False
+나다,X,to have (a fever/a runny nose),to have (a fever/a runny nose),False
+끝내다,X,to finish,to finish,False
+끝나다,X,to be finished,to be finished,False
+꽃,X,flower,flower,False
+깎다,X,to discount,to discount,False
+까만색,X,black,black,False
+김치,X,kimchi,kimchi,False
+김밥,X,gimbap,gimbap,False
+길다,X,long,long,False
+길,X,road / way,road / way,False
+기타,其他,guitar,guitar,False
+기침,X,cough,cough,False
+기차표,X,train ticket,train ticket,False
+기차,汽車,train,train,False
+기자,記者,reporter,reporter,False
+기숙사,寄宿舍,dormitory,dormitory,False
+기분,氣分,feeling,feeling,False
+기다리다,X,to wait,to wait,False
+금요일,金曜日,Friday,Friday,False
+극장,劇場,movie theater,movie theater,False
+그분,X,that person (honorific),that person (honorific),False
+그림,X,picture / drawing,picture / drawing,False
+그리다,X,to draw to paint,to draw to paint,False
+그리고,X,and,and,False
+그렇지만,X,but,but,False
+그럼,X,then / in that case,then / in that case,False
+그런데,X,but/ by the way,but/ by the way,False
+그래서,X,so,so,False
+그거,X,that (one),that (one),False
+그,X,that,that,False
+귀,X,ear,ear,False
+국적,國籍,nationality,nationality,False
+구월,九月,September,September,False
+구두,口頭,dress shoes,dress shoes,False
+구,X,nine,nine,False
+교실,敎室,classroom,classroom,False
+괜찮다,X,alright,alright,False
+과일,X,fruit,fruit,False
+공항,空港,airport,airport,False
+공책,空冊,notebook,notebook,False
+공원,工員,park,park,False
+공원,公園,park,park,False
+공부하다,X,to study,to study,False
+공부,工夫,study / learning,study / learning,False
+공,X,zero,zero,False
+고민,苦悶,agony / worry,agony / worry,False
+고등학생,高等學生,high school student,high school student,False
+고기,X,meat,meat,False
+계시다,X,to be/to stay (honorific),to be/to stay (honorific),False
+결혼하다,X,to marry,to marry,False
+결혼,結婚,marriage,marriage,False
+걸리다,X,to take (time),to take (time),False
+걷다,X,to walk,to walk,False
+건강,健康,health,health,False
+걱정,X,worry / concern,worry / concern,False
+개,X,counting unit for general items,counting unit for general items,False
+같이,X,together,together,False
+감기,感氣,cold,cold,False
+갈아타다,X,to transfer,to transfer,False
+갈색,褐色,brown,brown,False
+간호사,看護師,nurse,nurse,False
+가족,家族,family,family,False
+가방,街坊,bag,bag,False
+가르치다,X,to teach,to teach,False
+가다,X,to go,to go,False
+가게,X,store / shop,store / shop,False
