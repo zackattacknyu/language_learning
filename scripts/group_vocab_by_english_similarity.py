@@ -1,10 +1,11 @@
 from language_learning_tools.grouping.vocab_grouping import \
     get_kor_english_duplicate_def_df, \
     get_kor_eng_df_with_english_parts, \
-    explode_kor_eng_df_by_eng_parts, \
+    explode_df_by_list_col, \
     NUM_DEFS_WITH_WORD_COL_NAME, \
     WORD_IN_ENGLISH_DEF_COL_NAME, \
-    add_filler_rows
+    add_filler_rows, \
+    ENGLISH_PARTS_COL_NAME
 import pandas as pd
 
 INPUT_CSV_PATH = 'input_generated_files/english_hangul_hanja_tups_to_memorize.csv'
@@ -27,8 +28,12 @@ eng_kor_df_dup_entries = get_kor_english_duplicate_def_df(eng_kor_df_with_eng_pa
 print(eng_kor_df_dup_entries)
 assert eng_kor_df_dup_entries.shape[0] < 1
 
-eng_kor_df_by_eng_parts_with_num_defs = explode_kor_eng_df_by_eng_parts(
-    eng_kor_df_with_eng_parts, KOREAN_COL_NAME)
+eng_kor_df_by_eng_parts_with_num_defs = explode_df_by_list_col(
+    eng_kor_df_with_eng_parts,
+    KOREAN_COL_NAME,
+    ENGLISH_PARTS_COL_NAME,
+    WORD_IN_ENGLISH_DEF_COL_NAME,
+    NUM_DEFS_WITH_WORD_COL_NAME)
 
 eng_words_in_multiple_defs = eng_kor_df_by_eng_parts_with_num_defs[
     eng_kor_df_by_eng_parts_with_num_defs[NUM_DEFS_WITH_WORD_COL_NAME] > 1]

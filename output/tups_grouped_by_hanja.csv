@@ -1,0 +1,325 @@
+hanja_char,hanja_word_with_x,hangul_word,English_translation
+日,金曜日,금요일,Friday
+日,週日,주일,week
+日,生日,생일,birthday
+日,火曜日,화요일,Tuesday
+日,水曜日,수요일,Wednesday
+日,每日,매일,every day
+日,木曜日,목요일,Thursday
+日,月曜日,월요일,Monday
+日,曜日,요일,a day of the week
+日,日記,일기,diary
+日,日本語,일본어,Japanese (language)
+日,日曜日,일요일,Sunday
+日,日曜日,일요일,Sunday
+日,土曜日,토요일,Saturday
+日,來日,내일,tomorrow
+日,-,-,-
+生,高等學生,고등학생,high school student
+生,生鮮膾,생선회,sliced raw fish
+生,生鮮,생선,fish
+生,生日,생일,birthday
+生,學生,학생,student
+生,女同生,여동생,younger sister
+生,大學生,대학생,university student
+生,同生,동생,younger brother or sister
+生,初等學生,초등학생,elementary school student
+生,中學生,중학생,middle school student
+生,-,-,-
+月,月曜日,월요일,Monday
+月,四月,사월,April
+月,十月,시월,October
+月,十二月,십이월,December
+月,十一月,십일월,November
+月,五月,오월,May
+月,九月,구월,September
+月,三月,삼월,March
+月,-,-,-
+曜,金曜日,금요일,Friday
+曜,火曜日,화요일,Tuesday
+曜,水曜日,수요일,Wednesday
+曜,木曜日,목요일,Thursday
+曜,月曜日,월요일,Monday
+曜,曜日,요일,a day of the week
+曜,日曜日,일요일,Sunday
+曜,土曜日,토요일,Saturday
+曜,-,-,-
+國,韓國語,한국어,Korean (language)
+國,韓國,한국,Korea
+國,英國,영국,the United Kingdom
+國,美國,미국,the United States of America
+國,外國,외국,foreign country
+國,國籍,국적,nationality
+國,中國語,중국어,Chinese (language)
+國,中國,중국,China
+國,-,-,-
+學,高等學生,고등학생,high school student
+學,放學,방학,school holidays
+學,學生,학생,student
+學,學校,학교,school
+學,大學生,대학생,university student
+學,初等學生,초등학생,elementary school student
+學,中學生,중학생,middle school student
+學,-,-,-
+行,飛行機,비행기,airplane
+行,銀行員,은행원,bank clerk
+行,銀行,은행,bank
+行,旅行하다,여행하다,to travel
+行,旅行社,여행사,travel agency
+行,旅行,여행,trip travel
+行,-,-,-
+運,運轉하다,운전하다,to drive
+運,運轉,운전,driving
+運,運動하다,운동하다,to exercise / to work out
+運,運動,운동,exercise / workout
+運,-,-,-
+語,韓國語,한국어,Korean (language)
+語,英語,영어,English (language)
+語,日本語,일본어,Japanese (language)
+語,中國語,중국어,Chinese (language)
+語,-,-,-
+水,水泳하다,수영하다,to swim
+水,水泳場,수영장,swimming pool
+水,水泳,수영,swimming
+水,水曜日,수요일,Wednesday
+水,-,-,-
+料,料金,요금,fare charge
+料,料理하다,요리하다,to cook
+料,料理師,요리사,chef
+料,料理,요리,cooking
+料,-,-,-
+子,男子,남자,man male
+子,椅子,의자,chair
+子,帽子,모자,hat / cap
+子,女子,여자,woman female
+子,-,-,-
+場,駐車場,주차장,parking lot
+場,水泳場,수영장,swimming pool
+場,市場,시장,market
+場,劇場,극장,movie theater
+場,-,-,-
+員,銀行員,은행원,bank clerk
+員,職員,직원,staff
+員,硏究員,연구원,researcher
+員,會社員,회사원,company employee
+員,-,-,-
+十,十萬,십만,hundred thousand
+十,十月,시월,October
+十,十二月,십이월,December
+十,十一月,십일월,November
+十,-,-,-
+韓,韓服,한복,hanbok (traditional Korean costume)
+韓,韓國語,한국어,Korean (language)
+韓,韓國,한국,Korea
+韓,-,-,-
+電,電話하다,전화하다,to call
+電,電話番號,전화번호,telephone number
+電,電話,전화,cellular phone | telephone
+電,-,-,-
+轉,運轉하다,운전하다,to drive
+轉,運轉,운전,driving
+轉,自轉車,자전거,bicycle
+轉,-,-,-
+車,駐車場,주차장,parking lot
+車,自轉車,자전거,bicycle
+車,汽車,기차,train
+車,-,-,-
+話,電話하다,전화하다,to call
+話,電話番號,전화번호,telephone number
+話,電話,전화,cellular phone | telephone
+話,-,-,-
+色,褐色,갈색,brown
+色,綠色,녹색,green
+色,灰色,회색,grey
+色,-,-,-
+空,空港,공항,airport
+空,空冊,공책,notebook
+空,仁川空港,인천공항,Incheon Airport
+空,-,-,-
+社,會社員,회사원,company employee
+社,會社,회사,company
+社,旅行社,여행사,travel agency
+社,-,-,-
+理,料理하다,요리하다,to cook
+理,料理師,요리사,chef
+理,料理,요리,cooking
+理,-,-,-
+泳,水泳하다,수영하다,to swim
+泳,水泳場,수영장,swimming pool
+泳,水泳,수영,swimming
+泳,-,-,-
+時,時間表,시간표,time table
+時,時間,시간,hour
+時,時計,시계,watch / clock
+時,-,-,-
+旅,旅行하다,여행하다,to travel
+旅,旅行社,여행사,travel agency
+旅,旅行,여행,trip travel
+旅,-,-,-
+師,醫師,의사,doctor
+師,看護師,간호사,nurse
+師,料理師,요리사,chef
+師,-,-,-
+市,市廳,시청,city hall
+市,市場,시장,market
+市,市內,시내,downtown
+市,-,-,-
+山,釜山,부산,Busan
+山,登山,등산,mountain climbing / hiking
+山,漢拏山,한라산,Hallasan
+山,-,-,-
+宿,寄宿舍,기숙사,dormitory
+宿,宿題하다,숙제하다,to do homework
+宿,宿題,숙제,homework
+宿,-,-,-
+室,敎室,교실,classroom
+室,化粧室,화장실,rest room
+室,事務室,사무실,office
+室,-,-,-
+動,鳴動,명동,Myeong-dong
+動,運動하다,운동하다,to exercise / to work out
+動,運動,운동,exercise / workout
+動,-,-,-
+冊,空冊,공책,notebook
+冊,冊房,책방,bookstore
+冊,冊床,책상,desk
+冊,-,-,-
+中,中學生,중학생,middle school student
+中,中國語,중국어,Chinese (language)
+中,中國,중국,China
+中,-,-,-
+鮮,生鮮膾,생선회,sliced raw fish
+鮮,生鮮,생선,fish
+鮮,-,-,-
+食,飮食,음식,food
+食,食堂,식당,restaurant
+食,-,-,-
+題,宿題하다,숙제하다,to do homework
+題,宿題,숙제,homework
+題,-,-,-
+間,時間表,시간표,time table
+間,時間,시간,hour
+間,-,-,-
+鐵,地下鐵驛,지하철역,subway station
+鐵,地下鐵,지하철,subway
+鐵,-,-,-
+銀,銀行員,은행원,bank clerk
+銀,銀行,은행,bank
+銀,-,-,-
+金,金曜日,금요일,Friday
+金,料金,요금,fare charge
+金,-,-,-
+野,野菜,야채,vegetable
+野,野球,야구,baseball
+野,-,-,-
+週,週末,주말,weekend
+週,週日,주일,week
+週,-,-,-
+記,記者,기자,reporter
+記,日記,일기,diary
+記,-,-,-
+號,電話番號,전화번호,telephone number
+號,號線,호선,subway line number
+號,-,-,-
+茶,綠茶,녹차,green tea
+茶,紅茶,홍차,black tea
+茶,-,-,-
+英,英語,영어,English (language)
+英,英國,영국,the United Kingdom
+英,-,-,-
+自,自轉車,자전거,bicycle
+自,自主,자주,often
+自,-,-,-
+職,職業,직업,job/ occupation
+職,職員,직원,staff
+職,-,-,-
+綠,綠茶,녹차,green tea
+綠,綠色,녹색,green
+綠,-,-,-
+結,結婚하다,결혼하다,to marry
+結,結婚,결혼,marriage
+結,-,-,-
+紙,紙匣,지갑,wallet
+紙,便紙,편지,letter
+紙,-,-,-
+等,高等學生,고등학생,high school student
+等,初等學生,초등학생,elementary school student
+等,-,-,-
+票,投票하다,투표하다,to vote
+票,投票,투표,vote
+票,-,-,-
+發,出發하다,출발하다,to depart
+發,出發,출발,departure
+發,-,-,-
+男,男子,남자,man male
+男,男便,남편,husband
+男,-,-,-
+球,野球,야구,baseball
+球,蹴球,축구,soccer
+球,-,-,-
+港,空港,공항,airport
+港,仁川空港,인천공항,Incheon Airport
+港,-,-,-
+淸,淸掃하다,청소하다,to clean
+淸,淸掃,청소,cleaning
+淸,-,-,-
+氣,氣分,기분,feeling
+氣,感氣,감기,cold
+氣,-,-,-
+會,會社員,회사원,company employee
+會,會社,회사,company
+會,-,-,-
+書,葉書,엽서,postcard
+書,圖書館,도서관,library
+書,-,-,-
+掃,淸掃하다,청소하다,to clean
+掃,淸掃,청소,cleaning
+掃,-,-,-
+投,投票하다,투표하다,to vote
+投,投票,투표,vote
+投,-,-,-
+所,洗濯所,세탁소,dry cleaner's
+所,住所,주소,address
+所,-,-,-
+房,溫突房,온돌방,traditional Korean room / hot-floored room
+房,冊房,책방,bookstore
+房,-,-,-
+工,工夫하다,공부하다,to study
+工,工夫,공부,study / learning
+工,-,-,-
+局,郵遞局,우체국,post office
+局,藥局,약국,pharmacy
+局,-,-,-
+婚,結婚하다,결혼하다,to marry
+婚,結婚,결혼,marriage
+婚,-,-,-
+女,女子,여자,woman female
+女,女同生,여동생,younger sister
+女,-,-,-
+夫,工夫하다,공부하다,to study
+夫,工夫,공부,study / learning
+夫,-,-,-
+地,地下鐵驛,지하철역,subway station
+地,地下鐵,지하철,subway
+地,-,-,-
+同,女同生,여동생,younger sister
+同,同生,동생,younger brother or sister
+同,-,-,-
+午,午後,오후,afternoon / p.m.
+午,午前,오전,morning / a.m.
+午,-,-,-
+出,出發하다,출발하다,to depart
+出,出發,출발,departure
+出,-,-,-
+冷,冷麵,냉면,naengmyeon
+冷,冷藏庫,냉장고,refrigerator
+冷,-,-,-
+內,案內,안내,information guide
+內,市內,시내,downtown
+內,-,-,-
+便,男便,남편,husband
+便,便紙,편지,letter
+便,-,-,-
+下,地下鐵驛,지하철역,subway station
+下,地下鐵,지하철,subway
+下,-,-,-

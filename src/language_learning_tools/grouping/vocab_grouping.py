@@ -42,10 +42,21 @@ def get_non_stop_words(x):
     return tuple(non_stop_words_out)
 
 
-def get_kor_eng_df_with_english_parts(kor_eng_tuples_df, english_col_name, korean_col_name):
-    kor_eng_tuples_df[ENGLISH_PARTS_COL_NAME] = kor_eng_tuples_df[english_col_name].apply(get_non_stop_words)
-    kor_eng_tuples_df = kor_eng_tuples_df.drop_duplicates()
-    return kor_eng_tuples_df
+def get_hanja_parts(x):
+    hanja_wo_hada = x[:-2] if x.endswith('하다') else x
+    return tuple(hanja_wo_hada)
+
+
+def get_hangul_parts(x):
+    hangul_wo_hada = x[:-2] if x.endswith('하다') else x
+    hangul_wo_hada = x[:-1] if hangul_wo_hada.endswith('다') else hangul_wo_hada
+    return tuple(hangul_wo_hada)
+
+
+def add_col_with_parts(lang_df, parts_col_name, col_to_split, func_for_splitting):
+    lang_df[parts_col_name] = lang_df[col_to_split].apply(func_for_splitting)
+    lang_df = lang_df.drop_duplicates()
+    return lang_df
 
 
 def get_kor_english_duplicate_def_df(kor_eng_tuples_df,
@@ -63,21 +74,25 @@ def get_kor_english_duplicate_def_df(kor_eng_tuples_df,
     return eng_kor_dict_dup_entries[eng_kor_dict_dup_entries[NUM_ENGLISH_DEFS_COL_NAME] > 1]
 
 
-def explode_kor_eng_df_by_eng_parts(kor_eng_df,
-                                    korean_col_name,
-                                    english_parts_col_name=ENGLISH_PARTS_COL_NAME):
-    eng_kor_df_by_eng_parts = kor_eng_df \
-        .explode(english_parts_col_name).rename(columns={
-            english_parts_col_name: WORD_IN_ENGLISH_DEF_COL_NAME
+def explode_df_by_list_col(lang_df,
+                           list_col,
+                           col_with_parts_name,
+                           num_parts_col_name):
+    lang_df_with_parts = lang_df \
+        .explode(list_col).rename(columns={
+            list_col: col_with_parts_name
         })
 
-    num_defs_per_word = eng_kor_df_by_eng_parts \
-        .groupby(WORD_IN_ENGLISH_DEF_COL_NAME) \
-        .agg('count')[korean_col_name] \
-        .rename(NUM_DEFS_WITH_WORD_COL_NAME)
+    ref_cols = set(lang_df_with_parts.columns).difference({col_with_parts_name})
+    ref_col = list(ref_cols)[0]
 
-    return eng_kor_df_by_eng_parts \
-        .join(num_defs_per_word, on=WORD_IN_ENGLISH_DEF_COL_NAME)
+    num_defs_per_word = lang_df_with_parts \
+        .groupby(col_with_parts_name) \
+        .agg('count')[ref_col] \
+        .rename(num_parts_col_name)
+
+    return lang_df_with_parts \
+        .join(num_defs_per_word, on=col_with_parts_name)
 
 
 def _add_dashes(cols_to_add_dashes, row_dict):
@@ -94,3 +109,46 @@ def add_filler_rows(orig_df, cols_to_keep, cols_to_add_dashes):
     filler_row_df = pd.DataFrame(filler_row_dicts)
     return pd.concat([orig_df, filler_row_df])
 
+
+def group_lang_df_by_parts(lang_df,
+                           col_to_break_up,
+                           func_for_parsing_col,
+                           part_col_name,
+                           num_parts_col_name,
+                           col_sort_output_order_after_parts=[]):
+    col_with_list_of_parts_name = f'{col_to_break_up}_parts'
+
+    lang_df_with_parts = add_col_with_parts(
+        lang_df,
+        col_with_list_of_parts_name,
+        col_to_break_up,
+        func_for_parsing_col)
+
+    lang_df_expanded = explode_df_by_list_col(
+        lang_df_with_parts,
+        col_with_list_of_parts_name,
+        part_col_name,
+        num_parts_col_name)
+
+    parts_in_multiple_words = lang_df_expanded[
+        lang_df_expanded[num_parts_col_name] > 1]
+
+    parts_in_multiple_words[num_parts_col_name] = \
+        parts_in_multiple_words[num_parts_col_name].apply(lambda x: int(x))
+
+    indicator_cols_for_filler = {part_col_name, num_parts_col_name}
+    cols_to_fill = list(set(parts_in_multiple_words.columns)\
+                        .difference(indicator_cols_for_filler))
+
+    parts_df_with_filler = add_filler_rows(parts_in_multiple_words,
+                                           list(indicator_cols_for_filler),
+                                           cols_to_fill)
+
+    sort_order = [num_parts_col_name, part_col_name]
+    sort_order.extend(col_sort_output_order_after_parts)
+
+    output_order = [part_col_name]
+    output_order.extend(col_sort_output_order_after_parts)
+
+    out_df = parts_df_with_filler.sort_values(sort_order, ascending=False)
+    return out_df[output_order]
