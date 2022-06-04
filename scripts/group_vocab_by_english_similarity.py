@@ -7,7 +7,7 @@ from language_learning_tools.grouping.vocab_grouping import \
     add_filler_rows
 import pandas as pd
 
-INPUT_CSV_PATH = 'input_edited_files/english_hangul_hanja_tups_to_memorize.csv'
+INPUT_CSV_PATH = 'input_generated_files/english_hangul_hanja_tups_to_memorize.csv'
 OUTPUT_CSV_PATH = 'output/tups_grouped_by_english_def.csv'
 ENGLISH_COL_NAME = 'English_translation'
 KOREAN_COL_NAME = 'hangul_word'
@@ -47,5 +47,10 @@ eng_words_output_df = eng_words_with_filler\
                   HANJA_COL_NAME,
                   ENGLISH_COL_NAME], ascending=False)
 
-eng_words_output_df.to_csv(OUTPUT_CSV_PATH, index=False)
+eng_words_output_df[[
+    KOREAN_COL_NAME,
+    HANJA_COL_NAME,
+    ENGLISH_COL_NAME,
+    WORD_IN_ENGLISH_DEF_COL_NAME
+]].to_csv(OUTPUT_CSV_PATH, index=False)
 
