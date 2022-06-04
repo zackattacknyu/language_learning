@@ -3,7 +3,8 @@ from language_learning_tools.grouping.vocab_grouping import \
     get_kor_eng_df_with_english_parts, \
     explode_kor_eng_df_by_eng_parts, \
     NUM_DEFS_WITH_WORD_COL_NAME, \
-    WORD_IN_ENGLISH_DEF_COL_NAME
+    WORD_IN_ENGLISH_DEF_COL_NAME, \
+    add_filler_rows
 import pandas as pd
 
 INPUT_CSV_PATH = 'input_edited_files/korean_english_tuples_to_memorize.csv'
@@ -33,10 +34,15 @@ eng_words_in_multiple_defs = eng_kor_df_by_eng_parts_with_num_defs[
 eng_words_in_multiple_defs[NUM_DEFS_WITH_WORD_COL_NAME] = \
     eng_words_in_multiple_defs[NUM_DEFS_WITH_WORD_COL_NAME].apply(lambda x: int(x))
 
-eng_words_in_multiple_defs\
+eng_words_with_filler = add_filler_rows(eng_words_in_multiple_defs,
+                                        [WORD_IN_ENGLISH_DEF_COL_NAME, NUM_DEFS_WITH_WORD_COL_NAME],
+                                        [KOREAN_COL_NAME, ENGLISH_COL_NAME])
+
+eng_words_output_df = eng_words_with_filler\
     .sort_values([NUM_DEFS_WITH_WORD_COL_NAME,
                   WORD_IN_ENGLISH_DEF_COL_NAME,
                   KOREAN_COL_NAME,
-                  ENGLISH_COL_NAME], ascending=False)\
-    .to_csv(OUTPUT_CSV_PATH, index=False)
+                  ENGLISH_COL_NAME], ascending=False)
+
+eng_words_output_df.to_csv(OUTPUT_CSV_PATH, index=False)
 

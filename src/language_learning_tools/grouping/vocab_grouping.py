@@ -1,5 +1,7 @@
 import re
 
+import pandas as pd
+
 STOP_WORDS = {
     'a',
     'at',
@@ -14,7 +16,8 @@ STOP_WORDS = {
     'when',
     'the',
     'and',
-    'do'
+    'do',
+    'from'
 }
 SPECIAL_PHRASES = [
     ('when modifying a counting unit that follows', 'when_modifying_a_counting_unit_that_follows'),
@@ -75,4 +78,19 @@ def explode_kor_eng_df_by_eng_parts(kor_eng_df,
 
     return eng_kor_df_by_eng_parts \
         .join(num_defs_per_word, on=WORD_IN_ENGLISH_DEF_COL_NAME)
+
+
+def _add_dashes(cols_to_add_dashes, row_dict):
+    row_dict.update({_col: '-' for _col in cols_to_add_dashes})
+    return row_dict
+
+
+def add_filler_rows(orig_df, cols_to_keep, cols_to_add_dashes):
+    filler_row_dicts_init = orig_df[cols_to_keep] \
+        .drop_duplicates() \
+        .to_dict(orient='records')
+    filler_row_dicts = [_add_dashes(cols_to_add_dashes, filler_row_dict)
+                        for filler_row_dict in filler_row_dicts_init]
+    filler_row_df = pd.DataFrame(filler_row_dicts)
+    return pd.concat([orig_df, filler_row_df])
 
