@@ -24,11 +24,7 @@ SPECIAL_PHRASES = [
     ('counting unit', 'counting_unit')
 ]
 
-ENGLISH_PARTS_COL_NAME = 'English_def_parts'
-ENGLISH_DEFS_COL_NAME = 'English_definitions'
-NUM_ENGLISH_DEFS_COL_NAME = 'num_English_definitions'
-WORD_IN_ENGLISH_DEF_COL_NAME = 'word_in_English_def'
-NUM_DEFS_WITH_WORD_COL_NAME = 'num_definitions_with_word'
+
 
 
 def get_non_stop_words(x):
@@ -59,19 +55,20 @@ def add_col_with_parts(lang_df, parts_col_name, col_to_split, func_for_splitting
     return lang_df
 
 
-def get_kor_english_duplicate_def_df(kor_eng_tuples_df,
-                                     english_col_name,
-                                     korean_col_name,
-                                     english_parts_col_name=ENGLISH_PARTS_COL_NAME):
-    eng_kor_dict_dup_entries = kor_eng_tuples_df \
-        .groupby([korean_col_name, english_parts_col_name]) \
-        .agg([list, 'count'])[english_col_name] \
-        .reset_index().rename(columns={
-            'list': ENGLISH_DEFS_COL_NAME,
-            'count': NUM_ENGLISH_DEFS_COL_NAME
-        })
-
-    return eng_kor_dict_dup_entries[eng_kor_dict_dup_entries[NUM_ENGLISH_DEFS_COL_NAME] > 1]
+# TODO: DEPRECATE
+# def get_kor_english_duplicate_def_df(kor_eng_tuples_df,
+#                                      english_col_name,
+#                                      korean_col_name,
+#                                      english_parts_col_name=ENGLISH_PARTS_COL_NAME):
+#     eng_kor_dict_dup_entries = kor_eng_tuples_df \
+#         .groupby([korean_col_name, english_parts_col_name]) \
+#         .agg([list, 'count'])[english_col_name] \
+#         .reset_index().rename(columns={
+#             'list': ENGLISH_DEFS_COL_NAME,
+#             'count': NUM_ENGLISH_DEFS_COL_NAME
+#         })
+#
+#     return eng_kor_dict_dup_entries[eng_kor_dict_dup_entries[NUM_ENGLISH_DEFS_COL_NAME] > 1]
 
 
 def explode_df_by_list_col(lang_df,
@@ -114,9 +111,10 @@ def group_lang_df_by_parts(lang_df,
                            col_to_break_up,
                            func_for_parsing_col,
                            part_col_name,
-                           num_parts_col_name,
                            col_sort_output_order_after_parts=[]):
+
     col_with_list_of_parts_name = f'{col_to_break_up}_parts'
+    num_parts_col_name = f'{col_to_break_up}_num_parts'
 
     lang_df_with_parts = add_col_with_parts(
         lang_df,
