@@ -25,8 +25,6 @@ SPECIAL_PHRASES = [
 ]
 
 
-
-
 def get_non_stop_words(x):
     x_no_punct = re.sub('[()/|,]', ' ', x)
     for orig_phrase, new_phrase in SPECIAL_PHRASES:
@@ -47,6 +45,15 @@ def get_hangul_parts(x):
     hangul_wo_hada = x[:-2] if x.endswith('하다') else x
     hangul_wo_hada = x[:-1] if hangul_wo_hada.endswith('다') else hangul_wo_hada
     return tuple(hangul_wo_hada)
+
+
+def get_hangul_hanja_tuples(x):
+    hangul_chars = get_hangul_parts(x[0])
+    hanja_chars = get_hanja_parts(x[1])
+    if 'X' in hanja_chars:
+        return tuple([(hangul_ch, 'X') for hangul_ch in hangul_chars])
+    else:
+        return tuple(zip(hangul_chars, hanja_chars))
 
 
 def add_col_with_parts(lang_df, parts_col_name, col_to_split, func_for_splitting):
