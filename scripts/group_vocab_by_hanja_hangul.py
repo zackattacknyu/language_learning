@@ -31,12 +31,22 @@ hanja_chars_output_df = group_lang_df_by_parts(
 hanja_chars_output_df['hangul_char'] = hanja_chars_output_df['hangul_hanja_char_tuple'].apply(lambda x: x[0])
 hanja_chars_output_df['hanja_char'] = hanja_chars_output_df['hangul_hanja_char_tuple'].apply(lambda x: x[1])
 
+hangul_hanja_rank = hanja_chars_output_df[['hangul_hanja_char_tuple']]\
+    .drop_duplicates()\
+    .reset_index()\
+    .reset_index()[['level_0', 'hangul_hanja_char_tuple']].rename(columns={
+        'level_0': 'tuple_rank'
+    }).set_index('hangul_hanja_char_tuple')
+
+hanja_chars_output_df = hanja_chars_output_df.join(hangul_hanja_rank, on='hangul_hanja_char_tuple')
+
 hangul_hanja_out_df = hanja_chars_output_df[
     ['hangul_char',
      'hanja_char',
      KOREAN_COL_NAME,
      HANJA_COL_NAME,
-     ENGLISH_COL_NAME]
+     ENGLISH_COL_NAME,
+     'tuple_rank']
 ]
 
 hangul_hanja_out_df.to_csv(OUTPUT_CSV_PATH, index=False)

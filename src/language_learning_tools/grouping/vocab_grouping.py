@@ -99,21 +99,6 @@ def explode_df_by_list_col(lang_df,
         .join(num_defs_per_word, on=col_with_parts_name)
 
 
-def _add_dashes(cols_to_add_dashes, row_dict):
-    row_dict.update({_col: '-' for _col in cols_to_add_dashes})
-    return row_dict
-
-
-def add_filler_rows(orig_df, cols_to_keep, cols_to_add_dashes):
-    filler_row_dicts_init = orig_df[cols_to_keep] \
-        .drop_duplicates() \
-        .to_dict(orient='records')
-    filler_row_dicts = [_add_dashes(cols_to_add_dashes, filler_row_dict)
-                        for filler_row_dict in filler_row_dicts_init]
-    filler_row_df = pd.DataFrame(filler_row_dicts)
-    return pd.concat([orig_df, filler_row_df])
-
-
 def group_lang_df_by_parts(lang_df,
                            col_to_break_up,
                            func_for_parsing_col,
@@ -141,19 +126,11 @@ def group_lang_df_by_parts(lang_df,
     parts_in_multiple_words[num_parts_col_name] = \
         parts_in_multiple_words[num_parts_col_name].apply(lambda x: int(x))
 
-    indicator_cols_for_filler = {part_col_name, num_parts_col_name}
-    cols_to_fill = list(set(parts_in_multiple_words.columns)\
-                        .difference(indicator_cols_for_filler))
-
-    parts_df_with_filler = add_filler_rows(parts_in_multiple_words,
-                                           list(indicator_cols_for_filler),
-                                           cols_to_fill)
-
     sort_order = [num_parts_col_name, part_col_name]
     sort_order.extend(col_sort_output_order_after_parts)
 
     output_order = [part_col_name]
     output_order.extend(col_sort_output_order_after_parts)
 
-    out_df = parts_df_with_filler.sort_values(sort_order, ascending=False)
+    out_df = parts_in_multiple_words.sort_values(sort_order, ascending=False)
     return out_df[output_order]
