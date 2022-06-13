@@ -1,447 +1,327 @@
-word_in_English_def,hangul_word,hanja_word_with_x,English_translation
-one,한,X,one (when modifying a counting unit that follows)
-one,하루,X,one day
-one,하나,X,one
-one,저거,X,that (one)
-one,일,X,one | day | work
-one,이거,X,this (one)
-one,그거,X,that (one)
-one,-,-,-
-not,전혀,X,not at all
-not,재미없다,X,not interesting
-not,없다,X,not to have
-not,안,X,inside | not
-not,아직,X,"(not) yet, still"
-not,별로,X,"not really, not particularly"
-not,-,-,-
-honorific,저분,X,that person (honorific)
-honorific,이분,X,this person (honorific)
-honorific,성함,姓銜,name (honorific)
-honorific,드시다,X,to eat (honorific)
-honorific,그분,X,that person (honorific)
-honorific,계시다,X,to be/to stay (honorific)
-honorific,-,-,-
-counting_unit,잔,X,counting unit for glasses or cups
-counting_unit,살,X,-years old/counting unit for age | flesh
-counting_unit,병,X,counting unit for bottles
-counting_unit,번,X,counting unit after number
-counting_unit,명,X,counting unit for people
-counting_unit,개,X,counting unit for general items
-counting_unit,-,-,-
-work,출근하다,X,to go to work
-work,일하다,X,to work
-work,일,X,one | day | work
-work,운동하다,運動하다,to exercise / to work out
-work,다니다,X,to go to (a company) / to work for
-work,-,-,-
-what,어떤,X,what kind of
-what,뭘,X,what (object)
-what,뭐,X,what
-what,무슨,X,what kind of
-what,며칠,X,what date
-what,-,-,-
-take,찍다,X,to take (a picture)
-take,샤워하다,X,to take a shower
-take,벗다,X,to take off
-take,받다,X,to receive /to take /to get
-take,걸리다,X,to take (time)
-take,-,-,-
-student,학생,學生,student
-student,초등학생,初等學生,elementary school student
-student,중학생,中學生,middle school student
-student,대학생,大學生,university student
-student,고등학생,高等學生,high school student
-student,-,-,-
-school,학교,學校,school
-school,초등학생,初等學生,elementary school student
-school,중학생,中學生,middle school student
-school,방학,放學,school holidays
-school,고등학생,高等學生,high school student
-school,-,-,-
-person,저분,X,that person (honorific)
-person,이분,X,this person (honorific)
-person,사람,X,human / person
-person,뒷사람,X,person behind
-person,그분,X,that person (honorific)
-person,-,-,-
-on,타다,X,to get on to ride
-on,입다,X,to wear / to put on
-on,위,X,above / on
-on,쓰다,X,to wear / to put on (a hat) | to write
-on,신다,X,to put on (shoes)
-on,-,-,-
-language,한국어,韓國語,Korean (language)
-language,프랑스어,X,French (language)
-language,중국어,中國語,Chinese (language)
-language,일본어,日本語,Japanese (language)
-language,영어,英語,English (language)
-language,-,-,-
-Korean,한복,韓服,hanbok (traditional Korean costume)
-Korean,한국어,韓國語,Korean (language)
-Korean,추석,秋夕,the Korean Thanksgiving
-Korean,원,X,KRW / won (Korean money)
-Korean,온돌방,溫突房,traditional Korean room / hot-floored room
-Korean,-,-,-
-when_modifying_a_counting_unit_that_follows,한,X,one (when modifying a counting unit that follows)
-when_modifying_a_counting_unit_that_follows,세,X,three (when modifying a counting unit that follows)
-when_modifying_a_counting_unit_that_follows,두,X,two (when modifying a counting unit that follows)
-when_modifying_a_counting_unit_that_follows,네,X,four (when modifying a counting unit that follows)
-when_modifying_a_counting_unit_that_follows,-,-,-
-time,이번,X,this time
-time,시간표,時間表,time table
-time,나중에,X,"later, next time"
-time,걸리다,X,to take (time)
-time,-,-,-
-sister,여동생,女同生,younger sister
-sister,언니,X,elder sister (female pov)
-sister,동생,同生,younger brother or sister
-sister,누나,X,elder sister from a male perspective
-sister,-,-,-
-how,얼마나,X,how long
-how,얼마,X,how much
-how,어떻게,X,how
-how,몇,X,how many
-how,-,-,-
-go,출근하다,X,to go to work
-go,들어가다,X,to go in to enter
-go,다니다,X,to go to (a company) / to work for
-go,가다,X,to go
-go,-,-,-
-get,타다,X,to get on to ride
-get,일어나다,X,to get up
-get,받다,X,to receive /to take /to get
-get,내리다,X,to get off
-get,-,-,-
-elder,형,X,elder brother from male pov
-elder,오빠,X,elder brother from a female perspective
-elder,언니,X,elder sister (female pov)
-elder,누나,X,elder sister from a male perspective
-elder,-,-,-
-day,하루,X,one day
-day,일,X,one | day | work
-day,요일,曜日,a day of the week
-day,매일,每日,every day
-day,-,-,-
-brother,형,X,elder brother from male pov
-brother,오빠,X,elder brother from a female perspective
-brother,동생,同生,younger brother or sister
-brother,남동생,X,younger brother
-brother,-,-,-
-younger,여동생,女同生,younger sister
-younger,동생,同生,younger brother or sister
-younger,남동생,X,younger brother
-younger,-,-,-
-way,이렇게,X,like this /in this way
-way,길,X,road / way
-way,그런데,X,but/ by the way
-way,-,-,-
-two,이,X,this | two
-two,둘,X,two
-two,두,X,two (when modifying a counting unit that follows)
-two,-,-,-
-travel,여행하다,旅行하다,to travel
-travel,여행사,旅行社,travel agency
-travel,여행,旅行,trip travel
-travel,-,-,-
-three,셋,X,three
-three,세,X,three (when modifying a counting unit that follows)
-three,삼,X,three
-three,-,-,-
-tea,홍차,紅茶,black tea
-tea,차,X,car | tea
-tea,녹차,綠茶,green tea
-tea,-,-,-
-subway,호선,號線,subway line number
-subway,지하철역,地下鐵驛,subway station
-subway,지하철,地下鐵,subway
-subway,-,-,-
-side,왼쪽,X,left side
-side,오른쪽,X,right side
-side,옆,X,beside side
-side,-,-,-
-shoes,신발,X,shoes
-shoes,신다,X,to put on (shoes)
-shoes,구두,口頭,dress shoes
-shoes,-,-,-
-room,화장실,化粧室,rest room
-room,온돌방,溫突房,traditional Korean room / hot-floored room
-room,방,X,room with a bed
-room,-,-,-
-really,참,X,very / really
-really,정말,X,"really, truly"
-really,별로,X,"not really, not particularly"
-really,-,-,-
-put,입다,X,to wear / to put on
-put,쓰다,X,to wear / to put on (a hat) | to write
-put,신다,X,to put on (shoes)
-put,-,-,-
-number,호선,號線,subway line number
-number,전화번호,電話番號,telephone number
-number,번,X,counting unit after number
-number,-,-,-
-nose,콧물,X,runny nose
-nose,코,X,nose
-nose,나다,X,to have (a fever/a runny nose)
-nose,-,-,-
-much,얼마,X,how much
-much,많이,X,a lot / many / much
-much,많다,X,many / much
-much,-,-,-
-many,몇,X,how many
-many,많이,X,a lot / many / much
-many,많다,X,many / much
-many,-,-,-
-male,형,X,elder brother from male pov
-male,누나,X,elder sister from a male perspective
-male,남자,男子,man male
-male,-,-,-
-kind,착하다,X,to be kind / good-natured
-kind,어떤,X,what kind of
-kind,무슨,X,what kind of
-kind,-,-,-
-have,있다,X,to have
-have,없다,X,not to have
-have,나다,X,to have (a fever/a runny nose)
-have,-,-,-
-four,사,X,four
-four,넷,X,four
-four,네,X,four (when modifying a counting unit that follows)
-four,-,-,-
-female,오빠,X,elder brother from a female perspective
-female,여자,女子,woman female
-female,언니,X,elder sister (female pov)
-female,-,-,-
-company,회사원,會社員,company employee
-company,회사,會社,company
-company,다니다,X,to go to (a company) / to work for
-company,-,-,-
-cold,춥다,X,cold
-cold,찬물,X,cold water
-cold,감기,感氣,cold
-cold,-,-,-
-Station,시청역,X,City Hall Station
-Station,삼성역,X,Samseong Station
-Station,명동역,X,Myeongdong Station
-Station,-,-,-
-year,작년,昨年,last year
-year,년,X,year
-year,-,-,-
-worry,고민,苦悶,agony / worry
-worry,걱정,X,worry / concern
-worry,-,-,-
-who,누구,X,who
-who,누가,X,who
-who,-,-,-
-week,주일,週日,week
-week,요일,曜日,a day of the week
-week,-,-,-
-wear,입다,X,to wear / to put on
-wear,쓰다,X,to wear / to put on (a hat) | to write
-wear,-,-,-
-water,찬물,X,cold water
-water,물,X,water
-water,-,-,-
-watch,시계,時計,watch / clock
-watch,보다,X,to see / to watch / to look at
-watch,-,-,-
-vote,투표하다,投票하다,to vote
-vote,투표,投票,vote
-vote,-,-,-
-very,참,X,very / really
-very,아주,X,very / quite
-very,-,-,-
-use,이용,利用,use
-use,사용하다,X,to use
-use,-,-,-
-train,기차표,X,train ticket
-train,기차,汽車,train
-train,-,-,-
-traditional,한복,韓服,hanbok (traditional Korean costume)
-traditional,온돌방,溫突房,traditional Korean room / hot-floored room
-traditional,-,-,-
-today,오늘,X,today
-today,아까,X,"earlier (today), a while ago (today)"
-today,-,-,-
-ticket,표,X,ticket
-ticket,기차표,X,train ticket
-ticket,-,-,-
-thousand,천,X,thousand
-thousand,십만,十萬,hundred thousand
-thousand,-,-,-
-ten,열,X,ten | fever
-ten,십,X,ten
-ten,-,-,-
-telephone,전화번호,電話番號,telephone number
-telephone,전화,電話,cellular phone | telephone
-telephone,-,-,-
-swimming,수영장,水泳場,swimming pool
-swimming,수영,水泳,swimming
-swimming,-,-,-
-study,공부하다,工夫하다,to study
-study,공부,工夫,study / learning
-study,-,-,-
-store,백화점,百貨店,department store
-store,가게,X,store / shop
-store,-,-,-
-six,육,X,six
-six,여섯,X,six
-six,-,-,-
-shop,커피숍,X,coffee shop
-shop,가게,X,store / shop
-shop,-,-,-
-seven,칠,X,seven
-seven,일곱,X,seven
-seven,-,-,-
-send,부치다,X,to send / to mail
-send,보내다,X,to send / to mail
-send,-,-,-
-runny,콧물,X,runny nose
-runny,나다,X,to have (a fever/a runny nose)
-runny,-,-,-
-right,오른쪽,X,right side
-right,맞다,X,right
-right,-,-,-
-rest,화장실,化粧室,rest room
-rest,쉬다,X,to rest
-rest,-,-,-
-pov,형,X,elder brother from male pov
-pov,언니,X,elder sister (female pov)
-pov,-,-,-
-picture,찍다,X,to take (a picture)
-picture,그림,X,picture / drawing
-picture,-,-,-
-phone,핸드폰,X,mobile phone
-phone,전화,電話,cellular phone | telephone
-phone,-,-,-
-perspective,오빠,X,elder brother from a female perspective
-perspective,누나,X,elder sister from a male perspective
-perspective,-,-,-
-once,한번,X,once
-once,또,X,again / once more
-once,-,-,-
-office,우체국,郵遞局,post office
-office,사무실,事務室,office
-office,-,-,-
-off,벗다,X,to take off
-off,내리다,X,to get off
-off,-,-,-
-nine,아홉,X,nine
-nine,구,X,nine
-nine,-,-,-
-next,다음,X,next
-next,나중에,X,"later, next time"
-next,-,-,-
-name,이름,X,name
-name,성함,姓銜,name (honorific)
-name,-,-,-
-my,제,X,my
-my,내,X,my
-my,-,-,-
-movie,영화,映畵,movie
-movie,극장,劇場,movie theater
-movie,-,-,-
-mountain,산,X,mountain
-mountain,등산,登山,mountain climbing / hiking
-mountain,-,-,-
-morning,오전,午前,morning / a.m.
-morning,아침,X,morning
-morning,-,-,-
-more,또,X,again / once more
-more,더,X,more
-more,-,-,-
-month,월,X,month
-month,달,X,month
-month,-,-,-
-money,원,X,KRW / won (Korean money)
-money,돈,X,money
-money,-,-,-
-mail,부치다,X,to send / to mail
-mail,보내다,X,to send / to mail
-mail,-,-,-
-lot,주차장,駐車場,parking lot
-lot,많이,X,a lot / many / much
-lot,-,-,-
-look,찾다,X,to look for
-look,보다,X,to see / to watch / to look at
-look,-,-,-
-long,얼마나,X,how long
-long,길다,X,long
-long,-,-,-
-like,좋아하다,X,to like
-like,이렇게,X,like this /in this way
-like,-,-,-
-last,지난,至難,last
-last,작년,昨年,last year
-last,-,-,-
-interesting,재미있다,X,interesting
-interesting,재미없다,X,not interesting
-interesting,-,-,-
-hurt,아프다,X,to be hurting / ill / in pain / hurt
-hurt,다치다,X,to be hurt
-hurt,-,-,-
-hundred,십만,十萬,hundred thousand
-hundred,백,X,hundred
-hundred,-,-,-
-hot,맵다,X,hot and spicy
-hot,덥다,X,hot
-hot,-,-,-
-homework,숙제하다,宿題하다,to do homework
-homework,숙제,宿題,homework
-homework,-,-,-
-high,높다,X,high
-high,고등학생,高等學生,high school student
-high,-,-,-
-hat,쓰다,X,to wear / to put on (a hat) | to write
-hat,모자,帽子,hat / cap
-hat,-,-,-
-green,녹차,綠茶,green tea
-green,녹색,綠色,green
-green,-,-,-
-good,좋다,X,good
-good,잘하다,X,be good at
-good,-,-,-
-five,오,X,five
-five,다섯,X,five
-five,-,-,-
-fish,생선회,生鮮膾,sliced raw fish
-fish,생선,生鮮,fish
-fish,-,-,-
-fever,열,X,ten | fever
-fever,나다,X,to have (a fever/a runny nose)
-fever,-,-,-
-exercise,운동하다,運動하다,to exercise / to work out
-exercise,운동,運動,exercise / workout
-exercise,-,-,-
-eight,팔,X,arm | eight
-eight,여덟,X,eight
-eight,-,-,-
-eat,먹다,X,to eat
-eat,드시다,X,to eat (honorific)
-eat,-,-,-
-down,앉다,X,to sit down
-down,넘어지다,X,fall down
-down,-,-,-
-coffee,커피숍,X,coffee shop
-coffee,커피,X,coffee
-coffee,-,-,-
-cigarette,피우다,X,to smoke (a cigarette)
-cigarette,담배,X,cigarette
-cigarette,-,-,-
-but,그렇지만,X,but
-but,그런데,X,but/ by the way
-but,-,-,-
-black,홍차,紅茶,black tea
-black,까만색,X,black
-black,-,-,-
-behind,뒷사람,X,person behind
-behind,뒤,X,behind
-behind,-,-,-
-bed,침대,寢臺,bed
-bed,방,X,room with a bed
-bed,-,-,-
-bank,은행원,銀行員,bank clerk
-bank,은행,銀行,bank
-bank,-,-,-
-United,영국,英國,the United Kingdom
-United,미국,美國,the United States of America
-United,-,-,-
+hangul_word,English_translation,hanja_word_with_x,word_in_English_def,English_translation_num_parts,word_in_English_def_rank_tuple,word_in_English_def_rank
+한,one (when modifying a counting unit that follows),X,one,7,"(7, 'one')",120
+하루,one day,X,one,7,"(7, 'one')",120
+하나,one,X,one,7,"(7, 'one')",120
+저거,that (one),X,one,7,"(7, 'one')",120
+일,one | day | work,X,one,7,"(7, 'one')",120
+이거,this (one),X,one,7,"(7, 'one')",120
+그거,that (one),X,one,7,"(7, 'one')",120
+전혀,not at all,X,not,6,"(6, 'not')",119
+재미없다,not interesting,X,not,6,"(6, 'not')",119
+없다,not to have,X,not,6,"(6, 'not')",119
+안,inside | not,X,not,6,"(6, 'not')",119
+아직,"(not) yet, still",X,not,6,"(6, 'not')",119
+별로,"not really, not particularly",X,not,6,"(6, 'not')",119
+저분,that person (honorific),X,honorific,6,"(6, 'honorific')",118
+이분,this person (honorific),X,honorific,6,"(6, 'honorific')",118
+성함,name (honorific),姓銜,honorific,6,"(6, 'honorific')",118
+드시다,to eat (honorific),X,honorific,6,"(6, 'honorific')",118
+그분,that person (honorific),X,honorific,6,"(6, 'honorific')",118
+계시다,to be/to stay (honorific),X,honorific,6,"(6, 'honorific')",118
+잔,counting unit for glasses or cups,X,counting_unit,6,"(6, 'counting_unit')",117
+살,-years old/counting unit for age | flesh,X,counting_unit,6,"(6, 'counting_unit')",117
+병,counting unit for bottles,X,counting_unit,6,"(6, 'counting_unit')",117
+번,counting unit after number,X,counting_unit,6,"(6, 'counting_unit')",117
+명,counting unit for people,X,counting_unit,6,"(6, 'counting_unit')",117
+개,counting unit for general items,X,counting_unit,6,"(6, 'counting_unit')",117
+출근하다,to go to work,X,work,5,"(5, 'work')",116
+일하다,to work,X,work,5,"(5, 'work')",116
+일,one | day | work,X,work,5,"(5, 'work')",116
+운동하다,to exercise / to work out,運動하다,work,5,"(5, 'work')",116
+다니다,to go to (a company) / to work for,X,work,5,"(5, 'work')",116
+어떤,what kind of,X,what,5,"(5, 'what')",115
+뭘,what (object),X,what,5,"(5, 'what')",115
+뭐,what,X,what,5,"(5, 'what')",115
+무슨,what kind of,X,what,5,"(5, 'what')",115
+며칠,what date,X,what,5,"(5, 'what')",115
+찍다,to take (a picture),X,take,5,"(5, 'take')",114
+샤워하다,to take a shower,X,take,5,"(5, 'take')",114
+벗다,to take off,X,take,5,"(5, 'take')",114
+받다,to receive /to take /to get,X,take,5,"(5, 'take')",114
+걸리다,to take (time),X,take,5,"(5, 'take')",114
+학생,student,學生,student,5,"(5, 'student')",113
+초등학생,elementary school student,初等學生,student,5,"(5, 'student')",113
+중학생,middle school student,中學生,student,5,"(5, 'student')",113
+대학생,university student,大學生,student,5,"(5, 'student')",113
+고등학생,high school student,高等學生,student,5,"(5, 'student')",113
+학교,school,學校,school,5,"(5, 'school')",112
+초등학생,elementary school student,初等學生,school,5,"(5, 'school')",112
+중학생,middle school student,中學生,school,5,"(5, 'school')",112
+방학,school holidays,放學,school,5,"(5, 'school')",112
+고등학생,high school student,高等學生,school,5,"(5, 'school')",112
+저분,that person (honorific),X,person,5,"(5, 'person')",111
+이분,this person (honorific),X,person,5,"(5, 'person')",111
+사람,human / person,X,person,5,"(5, 'person')",111
+뒷사람,person behind,X,person,5,"(5, 'person')",111
+그분,that person (honorific),X,person,5,"(5, 'person')",111
+타다,to get on to ride,X,on,5,"(5, 'on')",110
+입다,to wear / to put on,X,on,5,"(5, 'on')",110
+위,above / on,X,on,5,"(5, 'on')",110
+쓰다,to wear / to put on (a hat) | to write,X,on,5,"(5, 'on')",110
+신다,to put on (shoes),X,on,5,"(5, 'on')",110
+한국어,Korean (language),韓國語,language,5,"(5, 'language')",109
+프랑스어,French (language),X,language,5,"(5, 'language')",109
+중국어,Chinese (language),中國語,language,5,"(5, 'language')",109
+일본어,Japanese (language),日本語,language,5,"(5, 'language')",109
+영어,English (language),英語,language,5,"(5, 'language')",109
+한복,hanbok (traditional Korean costume),韓服,Korean,5,"(5, 'Korean')",108
+한국어,Korean (language),韓國語,Korean,5,"(5, 'Korean')",108
+추석,the Korean Thanksgiving,秋夕,Korean,5,"(5, 'Korean')",108
+원,KRW / won (Korean money),X,Korean,5,"(5, 'Korean')",108
+온돌방,traditional Korean room / hot-floored room,溫突房,Korean,5,"(5, 'Korean')",108
+한,one (when modifying a counting unit that follows),X,when_modifying_a_counting_unit_that_follows,4,"(4, 'when_modifying_a_counting_unit_that_follows')",107
+세,three (when modifying a counting unit that follows),X,when_modifying_a_counting_unit_that_follows,4,"(4, 'when_modifying_a_counting_unit_that_follows')",107
+두,two (when modifying a counting unit that follows),X,when_modifying_a_counting_unit_that_follows,4,"(4, 'when_modifying_a_counting_unit_that_follows')",107
+네,four (when modifying a counting unit that follows),X,when_modifying_a_counting_unit_that_follows,4,"(4, 'when_modifying_a_counting_unit_that_follows')",107
+이번,this time,X,time,4,"(4, 'time')",106
+시간표,time table,時間表,time,4,"(4, 'time')",106
+나중에,"later, next time",X,time,4,"(4, 'time')",106
+걸리다,to take (time),X,time,4,"(4, 'time')",106
+여동생,younger sister,女同生,sister,4,"(4, 'sister')",105
+언니,elder sister (female pov),X,sister,4,"(4, 'sister')",105
+동생,younger brother or sister,同生,sister,4,"(4, 'sister')",105
+누나,elder sister from a male perspective,X,sister,4,"(4, 'sister')",105
+얼마나,how long,X,how,4,"(4, 'how')",104
+얼마,how much,X,how,4,"(4, 'how')",104
+어떻게,how,X,how,4,"(4, 'how')",104
+몇,how many,X,how,4,"(4, 'how')",104
+출근하다,to go to work,X,go,4,"(4, 'go')",103
+들어가다,to go in to enter,X,go,4,"(4, 'go')",103
+다니다,to go to (a company) / to work for,X,go,4,"(4, 'go')",103
+가다,to go,X,go,4,"(4, 'go')",103
+타다,to get on to ride,X,get,4,"(4, 'get')",102
+일어나다,to get up,X,get,4,"(4, 'get')",102
+받다,to receive /to take /to get,X,get,4,"(4, 'get')",102
+내리다,to get off,X,get,4,"(4, 'get')",102
+형,elder brother from male pov,X,elder,4,"(4, 'elder')",101
+오빠,elder brother from a female perspective,X,elder,4,"(4, 'elder')",101
+언니,elder sister (female pov),X,elder,4,"(4, 'elder')",101
+누나,elder sister from a male perspective,X,elder,4,"(4, 'elder')",101
+하루,one day,X,day,4,"(4, 'day')",100
+일,one | day | work,X,day,4,"(4, 'day')",100
+요일,a day of the week,曜日,day,4,"(4, 'day')",100
+매일,every day,每日,day,4,"(4, 'day')",100
+형,elder brother from male pov,X,brother,4,"(4, 'brother')",99
+오빠,elder brother from a female perspective,X,brother,4,"(4, 'brother')",99
+동생,younger brother or sister,同生,brother,4,"(4, 'brother')",99
+남동생,younger brother,X,brother,4,"(4, 'brother')",99
+여동생,younger sister,女同生,younger,3,"(3, 'younger')",98
+동생,younger brother or sister,同生,younger,3,"(3, 'younger')",98
+남동생,younger brother,X,younger,3,"(3, 'younger')",98
+이렇게,like this /in this way,X,way,3,"(3, 'way')",97
+길,road / way,X,way,3,"(3, 'way')",97
+그런데,but/ by the way,X,way,3,"(3, 'way')",97
+이,this | two,X,two,3,"(3, 'two')",96
+둘,two,X,two,3,"(3, 'two')",96
+두,two (when modifying a counting unit that follows),X,two,3,"(3, 'two')",96
+여행하다,to travel,旅行하다,travel,3,"(3, 'travel')",95
+여행사,travel agency,旅行社,travel,3,"(3, 'travel')",95
+여행,trip travel,旅行,travel,3,"(3, 'travel')",95
+셋,three,X,three,3,"(3, 'three')",94
+세,three (when modifying a counting unit that follows),X,three,3,"(3, 'three')",94
+삼,three,X,three,3,"(3, 'three')",94
+홍차,black tea,紅茶,tea,3,"(3, 'tea')",93
+차,car | tea,X,tea,3,"(3, 'tea')",93
+녹차,green tea,綠茶,tea,3,"(3, 'tea')",93
+호선,subway line number,號線,subway,3,"(3, 'subway')",92
+지하철역,subway station,地下鐵驛,subway,3,"(3, 'subway')",92
+지하철,subway,地下鐵,subway,3,"(3, 'subway')",92
+왼쪽,left side,X,side,3,"(3, 'side')",91
+오른쪽,right side,X,side,3,"(3, 'side')",91
+옆,beside side,X,side,3,"(3, 'side')",91
+신발,shoes,X,shoes,3,"(3, 'shoes')",90
+신다,to put on (shoes),X,shoes,3,"(3, 'shoes')",90
+구두,dress shoes,口頭,shoes,3,"(3, 'shoes')",90
+화장실,rest room,化粧室,room,3,"(3, 'room')",89
+온돌방,traditional Korean room / hot-floored room,溫突房,room,3,"(3, 'room')",89
+방,room with a bed,X,room,3,"(3, 'room')",89
+참,very / really,X,really,3,"(3, 'really')",88
+정말,"really, truly",X,really,3,"(3, 'really')",88
+별로,"not really, not particularly",X,really,3,"(3, 'really')",88
+입다,to wear / to put on,X,put,3,"(3, 'put')",87
+쓰다,to wear / to put on (a hat) | to write,X,put,3,"(3, 'put')",87
+신다,to put on (shoes),X,put,3,"(3, 'put')",87
+호선,subway line number,號線,number,3,"(3, 'number')",86
+전화번호,telephone number,電話番號,number,3,"(3, 'number')",86
+번,counting unit after number,X,number,3,"(3, 'number')",86
+콧물,runny nose,X,nose,3,"(3, 'nose')",85
+코,nose,X,nose,3,"(3, 'nose')",85
+나다,to have (a fever/a runny nose),X,nose,3,"(3, 'nose')",85
+얼마,how much,X,much,3,"(3, 'much')",84
+많이,a lot / many / much,X,much,3,"(3, 'much')",84
+많다,many / much,X,much,3,"(3, 'much')",84
+몇,how many,X,many,3,"(3, 'many')",83
+많이,a lot / many / much,X,many,3,"(3, 'many')",83
+많다,many / much,X,many,3,"(3, 'many')",83
+형,elder brother from male pov,X,male,3,"(3, 'male')",82
+누나,elder sister from a male perspective,X,male,3,"(3, 'male')",82
+남자,man male,男子,male,3,"(3, 'male')",82
+착하다,to be kind / good-natured,X,kind,3,"(3, 'kind')",81
+어떤,what kind of,X,kind,3,"(3, 'kind')",81
+무슨,what kind of,X,kind,3,"(3, 'kind')",81
+있다,to have,X,have,3,"(3, 'have')",80
+없다,not to have,X,have,3,"(3, 'have')",80
+나다,to have (a fever/a runny nose),X,have,3,"(3, 'have')",80
+사,four,X,four,3,"(3, 'four')",79
+넷,four,X,four,3,"(3, 'four')",79
+네,four (when modifying a counting unit that follows),X,four,3,"(3, 'four')",79
+오빠,elder brother from a female perspective,X,female,3,"(3, 'female')",78
+여자,woman female,女子,female,3,"(3, 'female')",78
+언니,elder sister (female pov),X,female,3,"(3, 'female')",78
+회사원,company employee,會社員,company,3,"(3, 'company')",77
+회사,company,會社,company,3,"(3, 'company')",77
+다니다,to go to (a company) / to work for,X,company,3,"(3, 'company')",77
+춥다,cold,X,cold,3,"(3, 'cold')",76
+찬물,cold water,X,cold,3,"(3, 'cold')",76
+감기,cold,感氣,cold,3,"(3, 'cold')",76
+시청역,City Hall Station,X,Station,3,"(3, 'Station')",75
+삼성역,Samseong Station,X,Station,3,"(3, 'Station')",75
+명동역,Myeongdong Station,X,Station,3,"(3, 'Station')",75
+작년,last year,昨年,year,2,"(2, 'year')",74
+년,year,X,year,2,"(2, 'year')",74
+고민,agony / worry,苦悶,worry,2,"(2, 'worry')",73
+걱정,worry / concern,X,worry,2,"(2, 'worry')",73
+누구,who,X,who,2,"(2, 'who')",72
+누가,who,X,who,2,"(2, 'who')",72
+주일,week,週日,week,2,"(2, 'week')",71
+요일,a day of the week,曜日,week,2,"(2, 'week')",71
+입다,to wear / to put on,X,wear,2,"(2, 'wear')",70
+쓰다,to wear / to put on (a hat) | to write,X,wear,2,"(2, 'wear')",70
+찬물,cold water,X,water,2,"(2, 'water')",69
+물,water,X,water,2,"(2, 'water')",69
+시계,watch / clock,時計,watch,2,"(2, 'watch')",68
+보다,to see / to watch / to look at,X,watch,2,"(2, 'watch')",68
+투표하다,to vote,投票하다,vote,2,"(2, 'vote')",67
+투표,vote,投票,vote,2,"(2, 'vote')",67
+참,very / really,X,very,2,"(2, 'very')",66
+아주,very / quite,X,very,2,"(2, 'very')",66
+이용,use,利用,use,2,"(2, 'use')",65
+사용하다,to use,X,use,2,"(2, 'use')",65
+기차표,train ticket,X,train,2,"(2, 'train')",64
+기차,train,汽車,train,2,"(2, 'train')",64
+한복,hanbok (traditional Korean costume),韓服,traditional,2,"(2, 'traditional')",63
+온돌방,traditional Korean room / hot-floored room,溫突房,traditional,2,"(2, 'traditional')",63
+오늘,today,X,today,2,"(2, 'today')",62
+아까,"earlier (today), a while ago (today)",X,today,2,"(2, 'today')",62
+표,ticket,X,ticket,2,"(2, 'ticket')",61
+기차표,train ticket,X,ticket,2,"(2, 'ticket')",61
+천,thousand,X,thousand,2,"(2, 'thousand')",60
+십만,hundred thousand,十萬,thousand,2,"(2, 'thousand')",60
+열,ten | fever,X,ten,2,"(2, 'ten')",59
+십,ten,X,ten,2,"(2, 'ten')",59
+전화번호,telephone number,電話番號,telephone,2,"(2, 'telephone')",58
+전화,cellular phone | telephone,電話,telephone,2,"(2, 'telephone')",58
+수영장,swimming pool,水泳場,swimming,2,"(2, 'swimming')",57
+수영,swimming,水泳,swimming,2,"(2, 'swimming')",57
+공부하다,to study,工夫하다,study,2,"(2, 'study')",56
+공부,study / learning,工夫,study,2,"(2, 'study')",56
+백화점,department store,百貨店,store,2,"(2, 'store')",55
+가게,store / shop,X,store,2,"(2, 'store')",55
+육,six,X,six,2,"(2, 'six')",54
+여섯,six,X,six,2,"(2, 'six')",54
+커피숍,coffee shop,X,shop,2,"(2, 'shop')",53
+가게,store / shop,X,shop,2,"(2, 'shop')",53
+칠,seven,X,seven,2,"(2, 'seven')",52
+일곱,seven,X,seven,2,"(2, 'seven')",52
+부치다,to send / to mail,X,send,2,"(2, 'send')",51
+보내다,to send / to mail,X,send,2,"(2, 'send')",51
+콧물,runny nose,X,runny,2,"(2, 'runny')",50
+나다,to have (a fever/a runny nose),X,runny,2,"(2, 'runny')",50
+오른쪽,right side,X,right,2,"(2, 'right')",49
+맞다,right,X,right,2,"(2, 'right')",49
+화장실,rest room,化粧室,rest,2,"(2, 'rest')",48
+쉬다,to rest,X,rest,2,"(2, 'rest')",48
+형,elder brother from male pov,X,pov,2,"(2, 'pov')",47
+언니,elder sister (female pov),X,pov,2,"(2, 'pov')",47
+찍다,to take (a picture),X,picture,2,"(2, 'picture')",46
+그림,picture / drawing,X,picture,2,"(2, 'picture')",46
+핸드폰,mobile phone,X,phone,2,"(2, 'phone')",45
+전화,cellular phone | telephone,電話,phone,2,"(2, 'phone')",45
+오빠,elder brother from a female perspective,X,perspective,2,"(2, 'perspective')",44
+누나,elder sister from a male perspective,X,perspective,2,"(2, 'perspective')",44
+한번,once,X,once,2,"(2, 'once')",43
+또,again / once more,X,once,2,"(2, 'once')",43
+우체국,post office,郵遞局,office,2,"(2, 'office')",42
+사무실,office,事務室,office,2,"(2, 'office')",42
+벗다,to take off,X,off,2,"(2, 'off')",41
+내리다,to get off,X,off,2,"(2, 'off')",41
+아홉,nine,X,nine,2,"(2, 'nine')",40
+구,nine,X,nine,2,"(2, 'nine')",40
+다음,next,X,next,2,"(2, 'next')",39
+나중에,"later, next time",X,next,2,"(2, 'next')",39
+이름,name,X,name,2,"(2, 'name')",38
+성함,name (honorific),姓銜,name,2,"(2, 'name')",38
+제,my,X,my,2,"(2, 'my')",37
+내,my,X,my,2,"(2, 'my')",37
+영화,movie,映畵,movie,2,"(2, 'movie')",36
+극장,movie theater,劇場,movie,2,"(2, 'movie')",36
+산,mountain,X,mountain,2,"(2, 'mountain')",35
+등산,mountain climbing / hiking,登山,mountain,2,"(2, 'mountain')",35
+오전,morning / a.m.,午前,morning,2,"(2, 'morning')",34
+아침,morning,X,morning,2,"(2, 'morning')",34
+또,again / once more,X,more,2,"(2, 'more')",33
+더,more,X,more,2,"(2, 'more')",33
+월,month,X,month,2,"(2, 'month')",32
+달,month,X,month,2,"(2, 'month')",32
+원,KRW / won (Korean money),X,money,2,"(2, 'money')",31
+돈,money,X,money,2,"(2, 'money')",31
+부치다,to send / to mail,X,mail,2,"(2, 'mail')",30
+보내다,to send / to mail,X,mail,2,"(2, 'mail')",30
+주차장,parking lot,駐車場,lot,2,"(2, 'lot')",29
+많이,a lot / many / much,X,lot,2,"(2, 'lot')",29
+찾다,to look for,X,look,2,"(2, 'look')",28
+보다,to see / to watch / to look at,X,look,2,"(2, 'look')",28
+얼마나,how long,X,long,2,"(2, 'long')",27
+길다,long,X,long,2,"(2, 'long')",27
+좋아하다,to like,X,like,2,"(2, 'like')",26
+이렇게,like this /in this way,X,like,2,"(2, 'like')",26
+지난,last,至難,last,2,"(2, 'last')",25
+작년,last year,昨年,last,2,"(2, 'last')",25
+재미있다,interesting,X,interesting,2,"(2, 'interesting')",24
+재미없다,not interesting,X,interesting,2,"(2, 'interesting')",24
+아프다,to be hurting / ill / in pain / hurt,X,hurt,2,"(2, 'hurt')",23
+다치다,to be hurt,X,hurt,2,"(2, 'hurt')",23
+십만,hundred thousand,十萬,hundred,2,"(2, 'hundred')",22
+백,hundred,X,hundred,2,"(2, 'hundred')",22
+맵다,hot and spicy,X,hot,2,"(2, 'hot')",21
+덥다,hot,X,hot,2,"(2, 'hot')",21
+숙제하다,to do homework,宿題하다,homework,2,"(2, 'homework')",20
+숙제,homework,宿題,homework,2,"(2, 'homework')",20
+높다,high,X,high,2,"(2, 'high')",19
+고등학생,high school student,高等學生,high,2,"(2, 'high')",19
+쓰다,to wear / to put on (a hat) | to write,X,hat,2,"(2, 'hat')",18
+모자,hat / cap,帽子,hat,2,"(2, 'hat')",18
+녹차,green tea,綠茶,green,2,"(2, 'green')",17
+녹색,green,綠色,green,2,"(2, 'green')",17
+좋다,good,X,good,2,"(2, 'good')",16
+잘하다,be good at,X,good,2,"(2, 'good')",16
+오,five,X,five,2,"(2, 'five')",15
+다섯,five,X,five,2,"(2, 'five')",15
+생선회,sliced raw fish,生鮮膾,fish,2,"(2, 'fish')",14
+생선,fish,生鮮,fish,2,"(2, 'fish')",14
+열,ten | fever,X,fever,2,"(2, 'fever')",13
+나다,to have (a fever/a runny nose),X,fever,2,"(2, 'fever')",13
+운동하다,to exercise / to work out,運動하다,exercise,2,"(2, 'exercise')",12
+운동,exercise / workout,運動,exercise,2,"(2, 'exercise')",12
+팔,arm | eight,X,eight,2,"(2, 'eight')",11
+여덟,eight,X,eight,2,"(2, 'eight')",11
+먹다,to eat,X,eat,2,"(2, 'eat')",10
+드시다,to eat (honorific),X,eat,2,"(2, 'eat')",10
+앉다,to sit down,X,down,2,"(2, 'down')",9
+넘어지다,fall down,X,down,2,"(2, 'down')",9
+커피숍,coffee shop,X,coffee,2,"(2, 'coffee')",8
+커피,coffee,X,coffee,2,"(2, 'coffee')",8
+피우다,to smoke (a cigarette),X,cigarette,2,"(2, 'cigarette')",7
+담배,cigarette,X,cigarette,2,"(2, 'cigarette')",7
+그렇지만,but,X,but,2,"(2, 'but')",6
+그런데,but/ by the way,X,but,2,"(2, 'but')",6
+홍차,black tea,紅茶,black,2,"(2, 'black')",5
+까만색,black,X,black,2,"(2, 'black')",5
+뒷사람,person behind,X,behind,2,"(2, 'behind')",4
+뒤,behind,X,behind,2,"(2, 'behind')",4
+침대,bed,寢臺,bed,2,"(2, 'bed')",3
+방,room with a bed,X,bed,2,"(2, 'bed')",3
+은행원,bank clerk,銀行員,bank,2,"(2, 'bank')",2
+은행,bank,銀行,bank,2,"(2, 'bank')",2
+영국,the United Kingdom,英國,United,2,"(2, 'United')",1
+미국,the United States of America,美國,United,2,"(2, 'United')",1

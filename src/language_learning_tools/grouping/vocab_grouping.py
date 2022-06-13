@@ -103,10 +103,15 @@ def group_lang_df_by_parts(lang_df,
                            col_to_break_up,
                            func_for_parsing_col,
                            part_col_name,
-                           col_sort_output_order_after_parts=[]):
+                           col_sort_order_after_parts=None):
+
+    if col_sort_order_after_parts is None:
+        col_sort_order_after_parts = []
 
     col_with_list_of_parts_name = f'{col_to_break_up}_parts'
     num_parts_col_name = f'{col_to_break_up}_num_parts'
+    rank_col_name = f'{part_col_name}_rank'
+    rank_tuple_col_name = f'{part_col_name}_rank_tuple'
 
     lang_df_with_parts = add_col_with_parts(
         lang_df,
@@ -127,10 +132,16 @@ def group_lang_df_by_parts(lang_df,
         parts_in_multiple_words[num_parts_col_name].apply(lambda x: int(x))
 
     sort_order = [num_parts_col_name, part_col_name]
-    sort_order.extend(col_sort_output_order_after_parts)
+    sort_order.extend(col_sort_order_after_parts)
 
-    output_order = [part_col_name]
-    output_order.extend(col_sort_output_order_after_parts)
+    parts_in_multiple_words[rank_tuple_col_name] = parts_in_multiple_words.apply(
+        lambda row: (row[num_parts_col_name],
+                     row[part_col_name]), axis=1)
+
+    part_rank_df = parts_in_multiple_words[[rank_tuple_col_name]].drop_duplicates()
+    part_rank_df[rank_col_name] = part_rank_df[rank_tuple_col_name].rank(method='min').apply(lambda x: int(x))
+    part_rank_df = part_rank_df.set_index(rank_tuple_col_name)
+    parts_in_multiple_words = parts_in_multiple_words.join(part_rank_df, on=rank_tuple_col_name)
 
     out_df = parts_in_multiple_words.sort_values(sort_order, ascending=False)
-    return out_df[output_order]
+    return out_df

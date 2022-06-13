@@ -1,755 +1,755 @@
-hangul_char,hanja_char,hangul_word,hanja_word_with_x,English_translation,tuple_rank
-아,X,할아버지,X,grandfather,0
-아,X,피아노,X,piano,0
-아,X,좋아하다,X,to like,0
-아,X,아홉,X,nine,0
-아,X,아프리카,X,Africa,0
-아,X,아프다,X,to be hurting / ill / in pain / hurt,0
-아,X,아침,X,morning,0
-아,X,아직,X,"(not) yet, still",0
-아,X,아주,X,very / quite,0
-아,X,아이스크림,X,ice cream,0
-아,X,아이,X,child,0
-아,X,아버지,X,father,0
-아,X,아래,X,under / below,0
-아,X,아들,X,son,0
-아,X,아내,X,wife,0
-아,X,아까,X,"earlier (today), a while ago (today)",0
-아,X,아기,X,baby,0
-아,X,말레이시아,X,Malaysia,0
-아,X,갈아타다,X,to transfer,0
-이,X,케이크,X,cake,1
-이,X,이야기하다,X,to talk,1
-이,X,이상하다,X,to be strange,1
-이,X,이분,X,this person (honorific),1
-이,X,이번,X,this time,1
-이,X,이메일,X,e-mail,1
-이,X,이름,X,name,1
-이,X,이렇게,X,like this /in this way,1
-이,X,이거,X,this (one),1
-이,X,이,X,this | two,1
-이,X,아이스크림,X,ice cream,1
-이,X,아이,X,child,1
-이,X,베이징,X,Beijing,1
-이,X,말레이시아,X,Malaysia,1
-이,X,많이,X,a lot / many / much,1
-이,X,다이어트,X,diet,1
-이,X,같이,X,together,1
-일,日,화요일,火曜日,Tuesday,2
-일,日,토요일,土曜日,Saturday,2
-일,日,주일,週日,week,2
-일,日,일요일,日曜日,Sunday,2
-일,日,일요일,日曜日,Sunday,2
-일,日,일본어,日本語,Japanese (language),2
-일,日,일기,日記,diary,2
-일,日,월요일,月曜日,Monday,2
-일,日,요일,曜日,a day of the week,2
-일,日,수요일,水曜日,Wednesday,2
-일,日,생일,生日,birthday,2
-일,日,목요일,木曜日,Thursday,2
-일,日,매일,每日,every day,2
-일,日,내일,來日,tomorrow,2
-일,日,금요일,金曜日,Friday,2
-리,X,허리,X,waist,3
-리,X,파리,X,Paris,3
-리,X,자리,X,seat place,3
-리,X,우리,X,we / our,3
-리,X,아프리카,X,Africa,3
-리,X,빨리,X,quickly,3
-리,X,머리,X,head,3
-리,X,마드리드,X,Madrid,3
-리,X,달리다,X,to run,3
-리,X,다리,X,leg,3
-리,X,내리다,X,to get off,3
-리,X,기다리다,X,to wait,3
-리,X,그리다,X,to draw to paint,3
-리,X,그리고,X,and,3
-리,X,걸리다,X,to take (time),3
-어,X,프랑스어,X,French (language),4
-어,X,일어나다,X,to get up,4
-어,X,어제,X,yesterday,4
-어,X,어머니,X,mother,4
-어,X,어렵다,X,difficult,4
-어,X,어떻게,X,how,4
-어,X,어떤,X,what kind of,4
-어,X,어디,X,where,4
-어,X,어깨,X,shoulder,4
-어,X,들어가다,X,to go in to enter,4
-어,X,다이어트,X,diet,4
-어,X,넘어지다,X,fall down,4
-나,X,하나,X,one,5
-나,X,캐나다,X,Canada,5
-나,X,일어나다,X,to get up,5
-나,X,얼마나,X,how long,5
-나,X,바나나,X,banana,5
-나,X,바나나,X,banana,5
-나,X,만나다,X,to meet,5
-나,X,누나,X,elder sister from a male perspective,5
-나,X,나중에,X,"later, next time",5
-나,X,나쁘다,X,bad,5
-나,X,나다,X,to have (a fever/a runny nose),5
-나,X,끝나다,X,to be finished,5
-스,X,프랑스어,X,French (language),6
-스,X,프랑스,X,France,6
-스,X,테니스,X,tennis,6
-스,X,주스,X,juice,6
-스,X,아이스크림,X,ice cream,6
-스,X,스파게티,X,spaghetti,6
-스,X,스키장,X,ski resort,6
-스,X,스키,X,skiing,6
-스,X,버스,X,bus,6
-스,X,뉴스,X,news,6
-생,生,학생,學生,student,7
-생,生,초등학생,初等學生,elementary school student,7
-생,生,중학생,中學生,middle school student,7
-생,生,여동생,女同生,younger sister,7
-생,生,생일,生日,birthday,7
-생,生,생선회,生鮮膾,sliced raw fish,7
-생,生,생선,生鮮,fish,7
-생,生,동생,同生,younger brother or sister,7
-생,生,대학생,大學生,university student,7
-생,生,고등학생,高等學生,high school student,7
-그,X,그분,X,that person (honorific),8
-그,X,그림,X,picture / drawing,8
-그,X,그리다,X,to draw to paint,8
-그,X,그리고,X,and,8
-그,X,그렇지만,X,but,8
-그,X,그럼,X,then / in that case,8
-그,X,그런데,X,but/ by the way,8
-그,X,그래서,X,so,8
-그,X,그거,X,that (one),8
-그,X,그,X,that,8
-지,X,할아버지,X,grandfather,9
-지,X,청바지,X,jeans,9
-지,X,지우개,X,eraser,9
-지,X,오렌지,X,orange,9
-지,X,아버지,X,father,9
-지,X,바지,X,trousers pants,9
-지,X,만지다,X,to touch,9
-지,X,넘어지다,X,fall down,9
-지,X,그렇지만,X,but,9
-기,X,이야기하다,X,to talk,10
-기,X,여기,X,here,10
-기,X,아기,X,baby,10
-기,X,불고기,X,bulgogi,10
-기,X,말하기,X,speaking,10
-기,X,기침,X,cough,10
-기,X,기차표,X,train ticket,10
-기,X,기다리다,X,to wait,10
-기,X,고기,X,meat,10
-피,X,피자,X,pizza,11
-피,X,피우다,X,to smoke (a cigarette),11
-피,X,피아노,X,piano,11
-피,X,피라미드,X,pyramid,11
-피,X,피곤하다,X,tired,11
-피,X,피,X,blood,11
-피,X,커피숍,X,coffee shop,11
-피,X,커피,X,coffee,11
-일,X,집안일,X,chores,12
-일,X,일하다,X,to work,12
-일,X,일어나다,X,to get up,12
-일,X,일곱,X,seven,12
-일,X,일,X,one | day | work,12
-일,X,이메일,X,e-mail,12
-일,X,세일,X,sale,12
-일,X,과일,X,fruit,12
-월,月,월요일,月曜日,Monday,13
-월,月,오월,五月,May,13
-월,月,십일월,十一月,November,13
-월,月,십이월,十二月,December,13
-월,月,시월,十月,October,13
-월,月,삼월,三月,March,13
-월,月,사월,四月,April,13
-월,月,구월,九月,September,13
-요,曜,화요일,火曜日,Tuesday,14
-요,曜,토요일,土曜日,Saturday,14
-요,曜,일요일,日曜日,Sunday,14
-요,曜,월요일,月曜日,Monday,14
-요,曜,요일,曜日,a day of the week,14
-요,曜,수요일,水曜日,Wednesday,14
-요,曜,목요일,木曜日,Thursday,14
-요,曜,금요일,金曜日,Friday,14
-사,X,인사동,X,Insa-dong,15
-사,X,사용하다,X,to use,15
-사,X,사랑하다,X,to love,15
-사,X,사람,X,human / person,15
-사,X,사다,X,to buy,15
-사,X,사,X,four,15
-사,X,뒷사람,X,person behind,15
-사,X,눈사람,X,snowman,15
-다,X,다치다,X,to be hurt,16
-다,X,다이어트,X,diet,16
-다,X,다음,X,next,16
-다,X,다섯,X,five,16
-다,X,다리,X,leg,16
-다,X,다른,X,other,16
-다,X,다니다,X,to go to (a company) / to work for,16
-다,X,기다리다,X,to wait,16
-국,國,한국어,韓國語,Korean (language),17
-국,國,한국,韓國,Korea,17
-국,國,중국어,中國語,Chinese (language),17
-국,國,중국,中國,China,17
-국,國,외국,外國,foreign country,17
-국,國,영국,英國,the United Kingdom,17
-국,國,미국,美國,the United States of America,17
-국,國,국적,國籍,nationality,17
-학,學,학생,學生,student,18
-학,學,학교,學校,school,18
-학,學,초등학생,初等學生,elementary school student,18
-학,學,중학생,中學生,middle school student,18
-학,學,방학,放學,school holidays,18
-학,學,대학생,大學生,university student,18
-학,學,고등학생,高等學生,high school student,18
-시,X,택시,X,taxi,19
-시,X,시청역,X,City Hall Station,19
-시,X,시끄럽다,X,noisy,19
-시,X,시,X,o'clock,19
-시,X,말레이시아,X,Malaysia,19
-시,X,드시다,X,to eat (honorific),19
-시,X,계시다,X,to be/to stay (honorific),19
-가,X,젓가락,X,chopsticks,20
-가,X,숟가락,X,spoon,20
-가,X,들어가다,X,to go in to enter,20
-가,X,누가,X,who,20
-가,X,가르치다,X,to teach,20
-가,X,가다,X,to go,20
-가,X,가게,X,store / shop,20
-행,行,은행원,銀行員,bank clerk,21
-행,行,은행,銀行,bank,21
-행,行,여행하다,旅行하다,to travel,21
-행,行,여행사,旅行社,travel agency,21
-행,行,여행,旅行,trip travel,21
-행,行,비행기,飛行機,airplane,21
-프,X,프랑스어,X,French (language),22
-프,X,프랑스,X,France,22
-프,X,아프리카,X,Africa,22
-프,X,아프다,X,to be hurting / ill / in pain / hurt,22
-프,X,슬프다,X,sad,22
-프,X,배고프다,X,hungry,22
-치,X,치마,X,skirt,23
-치,X,치다,X,to play / to hit / to strike,23
-치,X,부치다,X,to send / to mail,23
-치,X,다치다,X,to be hurt,23
-치,X,김치,X,kimchi,23
-치,X,가르치다,X,to teach,23
-오,X,오빠,X,elder brother from a female perspective,24
-오,X,오른쪽,X,right side,24
-오,X,오렌지,X,orange,24
-오,X,오다,X,to come,24
-오,X,오늘,X,today,24
-오,X,오,X,five,24
-색,X,하얀색,X,white,25
-색,X,파란색,X,blue,25
-색,X,색,X,color,25
-색,X,빨간색,X,red,25
-색,X,노란색,X,yellow,25
-색,X,까만색,X,black,25
-바,X,청바지,X,jeans,26
-바,X,바지,X,trousers pants,26
-바,X,바쁘다,X,busy,26
-바,X,바다,X,sea ocean,26
-바,X,바나나,X,banana,26
-바,X,바꾸다,X,to change | to exchange,26
-마,X,치마,X,skirt,27
-마,X,얼마나,X,how long,27
-마,X,얼마,X,how much,27
-마,X,마드리드,X,Madrid,27
-마,X,로마,X,Rome,27
-마,X,드라마,X,drama (TV series),27
-드,X,핸드폰,X,mobile phone,28
-드,X,피라미드,X,pyramid,28
-드,X,마드리드,X,Madrid,28
-드,X,마드리드,X,Madrid,28
-드,X,드시다,X,to eat (honorific),28
-드,X,드라마,X,drama (TV series),28
-내,X,아내,X,wife,29
-내,X,보내다,X,to send / to mail,29
-내,X,내리다,X,to get off,29
-내,X,내다,X,to pay,29
-내,X,내,X,my,29
-내,X,끝내다,X,to finish,29
-파,X,파티,X,party,30
-파,X,파리,X,Paris,30
-파,X,파란색,X,blue,30
-파,X,스파게티,X,spaghetti,30
-파,X,소파,X,sofa,30
-우,X,피우다,X,to smoke (a cigarette),31
-우,X,지우개,X,eraser,31
-우,X,우리,X,we / our,31
-우,X,세우다,X,to stop,31
-우,X,배우다,X,to learn,31
-비,X,텔레비전,X,television,32
-비,X,준비하다,X,to prepare,32
-비,X,비싸다,X,expensive,32
-비,X,비빔밥,X,bibimbap,32
-비,X,비,X,rain,32
-만,X,만지다,X,to touch,33
-만,X,만들다,X,to make,33
-만,X,만나다,X,to meet,33
-만,X,까만색,X,black,33
-만,X,그렇지만,X,but,33
-라,X,피라미드,X,pyramid,34
-라,X,콜라,X,cola,34
-라,X,카메라,X,camera,34
-라,X,브라질,X,Brasil,34
-라,X,드라마,X,drama (TV series),34
-들,X,힘들다,X,laborous hard,35
-들,X,아들,X,son,35
-들,X,만들다,X,to make,35
-들,X,들어가다,X,to go in to enter,35
-들,X,들다,X,to be contained,35
-니,X,할머니,X,grandmother,36
-니,X,테니스,X,tennis,36
-니,X,언니,X,elder sister (female pov),36
-니,X,어머니,X,mother,36
-니,X,다니다,X,to go to (a company) / to work for,36
-하,X,하얀색,X,white,37
-하,X,하루,X,one day,37
-하,X,하나,X,one,37
-하,X,말하기,X,speaking,37
-크,X,포크,X,fork,38
-크,X,크다,X,big,38
-크,X,케이크,X,cake,38
-크,X,아이스크림,X,ice cream,38
-주,X,주스,X,juice,39
-주,X,주다,X,to give,39
-주,X,아주,X,very / quite,39
-주,X,도와주다,X,to help,39
-저,X,저분,X,that person (honorific),40
-저,X,저녁,X,evening,40
-저,X,저거,X,that (one),40
-저,X,저,X,he / she | that,40
-장,場,주차장,駐車場,parking lot,41
-장,場,시장,市場,market,41
-장,場,수영장,水泳場,swimming pool,41
-장,場,극장,劇場,movie theater,41
-자,子,의자,椅子,chair,42
-자,子,여자,女子,woman female,42
-자,子,모자,帽子,hat / cap,42
-자,子,남자,男子,man male,42
-자,X,혼자,X,alone,43
-자,X,피자,X,pizza,43
-자,X,자리,X,seat place,43
-자,X,자다,X,to sleep,43
-있,X,재미있다,X,interesting,44
-있,X,있다,X,to have,44
-있,X,멋있다,X,"to be nice, to be stylish",44
-있,X,맛있다,X,tasty / delicious,44
-원,員,회사원,會社員,company employee,45
-원,員,직원,職員,staff,45
-원,員,은행원,銀行員,bank clerk,45
-원,員,연구원,硏究員,researcher,45
-운,運,운전하다,運轉하다,to drive,46
-운,運,운전,運轉,driving,46
-운,運,운동하다,運動하다,to exercise / to work out,46
-운,運,운동,運動,exercise / workout,46
-요,料,요리하다,料理하다,to cook,47
-요,料,요리사,料理師,chef,47
-요,料,요리,料理,cooking,47
-요,料,요금,料金,fare charge,47
-어,語,한국어,韓國語,Korean (language),48
-어,語,중국어,中國語,Chinese (language),48
-어,語,일본어,日本語,Japanese (language),48
-어,語,영어,英語,English (language),48
-수,水,수요일,水曜日,Wednesday,49
-수,水,수영하다,水泳하다,to swim,49
-수,水,수영장,水泳場,swimming pool,49
-수,水,수영,水泳,swimming,49
-분,X,저분,X,that person (honorific),50
-분,X,이분,X,this person (honorific),50
-분,X,분,X,minute,50
-분,X,그분,X,that person (honorific),50
-버,X,햄버거,X,hamburger,51
-버,X,할아버지,X,grandfather,51
-버,X,아버지,X,father,51
-버,X,버스,X,bus,51
-배,X,배우다,X,to learn,52
-배,X,배고프다,X,hungry,52
-배,X,배,X,abdomen / stomach | ship/boat,52
-배,X,담배,X,cigarette,52
-미,X,피라미드,X,pyramid,53
-미,X,재미있다,X,interesting,53
-미,X,재미없다,X,not interesting,53
-미,X,미안하다,X,sorry,53
-무,X,무슨,X,what kind of,54
-무,X,무섭다,X,scary,54
-무,X,무겁다,X,heavy,54
-무,X,너무,X,too,54
-래,X,아래,X,under / below,55
-래,X,빨래하다,X,to do laundry,55
-래,X,노래하다,X,to sing,55
-래,X,그래서,X,so,55
-고,X,불고기,X,bulgogi,56
-고,X,배고프다,X,hungry,56
-고,X,그리고,X,and,56
-고,X,고기,X,meat,56
-게,X,이렇게,X,like this /in this way,57
-게,X,어떻게,X,how,57
-게,X,스파게티,X,spaghetti,57
-게,X,가게,X,store / shop,57
-거,X,햄버거,X,hamburger,58
-거,X,저거,X,that (one),58
-거,X,이거,X,this (one),58
-거,X,그거,X,that (one),58
-화,話,전화하다,電話하다,to call,59
-화,話,전화번호,電話番號,telephone number,59
-화,話,전화,電話,cellular phone | telephone,59
-한,韓,한복,韓服,hanbok (traditional Korean costume),60
-한,韓,한국어,韓國語,Korean (language),60
-한,韓,한국,韓國,Korea,60
-티,X,파티,X,party,61
-티,X,티셔츠,X,T-shirt,61
-티,X,스파게티,X,spaghetti,61
-트,X,코트,X,coat,62
-트,X,베트남,X,Vietnam,62
-트,X,다이어트,X,diet,62
-책,冊,책상,冊床,desk,63
-책,冊,책방,冊房,bookstore,63
-책,冊,공책,空冊,notebook,63
-중,中,중학생,中學生,middle school student,64
-중,中,중국어,中國語,Chinese (language),64
-중,中,중국,中國,China,64
-제,X,제,X,my,65
-제,X,언제,X,when,65
-제,X,어제,X,yesterday,65
-전,電,전화하다,電話하다,to call,66
-전,電,전화번호,電話番號,telephone number,66
-전,電,전화,電話,cellular phone | telephone,66
-전,轉,자전거,自轉車,bicycle,67
-전,轉,운전하다,運轉하다,to drive,67
-전,轉,운전,運轉,driving,67
-예,X,예약하다,X,to reserve,68
-예,X,예술의,X,arts,68
-예,X,예쁘다,X,pretty,68
-영,泳,수영하다,水泳하다,to swim,69
-영,泳,수영장,水泳場,swimming pool,69
-영,泳,수영,水泳,swimming,69
-역,X,시청역,X,City Hall Station,70
-역,X,삼성역,X,Samseong Station,70
-역,X,명동역,X,Myeongdong Station,70
-여,旅,여행하다,旅行하다,to travel,71
-여,旅,여행사,旅行社,travel agency,71
-여,旅,여행,旅行,trip travel,71
-여,X,여섯,X,six,72
-여,X,여덟,X,eight,72
-여,X,여기,X,here,72
-없,X,재미없다,X,not interesting,73
-없,X,없다,X,not to have,73
-없,X,맛없다,X,untasty,73
-안,X,집안일,X,chores,74
-안,X,안,X,inside | not,74
-안,X,미안하다,X,sorry,74
-십,十,십일월,十一月,November,75
-십,十,십이월,十二月,December,75
-십,十,십만,十萬,hundred thousand,75
-실,室,화장실,化粧室,rest room,76
-실,室,사무실,事務室,office,76
-실,室,교실,敎室,classroom,76
-시,時,시계,時計,watch / clock,77
-시,時,시간표,時間表,time table,77
-시,時,시간,時間,hour,77
-시,市,시청,市廳,city hall,78
-시,市,시장,市場,market,78
-시,市,시내,市內,downtown,78
-숙,宿,숙제하다,宿題하다,to do homework,79
-숙,宿,숙제,宿題,homework,79
-숙,宿,기숙사,寄宿舍,dormitory,79
-세,X,세일,X,sale,80
-세,X,세우다,X,to stop,80
-세,X,세,X,three (when modifying a counting unit that follows),80
-생,X,선생님,X,teacher,81
-생,X,생각,X,thinking / thought,81
-생,X,남동생,X,younger brother,81
-색,色,회색,灰色,grey,82
-색,色,녹색,綠色,green,82
-색,色,갈색,褐色,brown,82
-산,山,한라산,漢拏山,Hallasan,83
-산,山,부산,釜山,Busan,83
-산,山,등산,登山,mountain climbing / hiking,83
-사,社,회사원,會社員,company employee,84
-사,社,회사,會社,company,84
-사,社,여행사,旅行社,travel agency,84
-사,師,의사,醫師,doctor,85
-사,師,요리사,料理師,chef,85
-사,師,간호사,看護師,nurse,85
-쁘,X,예쁘다,X,pretty,86
-쁘,X,바쁘다,X,busy,86
-쁘,X,나쁘다,X,bad,86
-빨,X,빨리,X,quickly,87
-빨,X,빨래하다,X,to do laundry,87
-빨,X,빨간색,X,red,87
-번,X,한번,X,once,88
-번,X,이번,X,this time,88
-번,X,번,X,counting unit after number,88
-밥,X,비빔밥,X,bibimbap,89
-밥,X,밥,X,steamed rice | meal,89
-밥,X,김밥,X,gimbap,89
-물,X,콧물,X,runny nose,90
-물,X,찬물,X,cold water,90
-물,X,물,X,water,90
-메,X,카메라,X,camera,91
-메,X,이메일,X,e-mail,91
-메,X,메뉴,X,menu,91
-머,X,할머니,X,grandmother,92
-머,X,어머니,X,mother,92
-머,X,머리,X,head,92
-말,X,정말,X,"really, truly",93
-말,X,말하기,X,speaking,93
-말,X,말레이시아,X,Malaysia,93
-리,理,요리하다,料理하다,to cook,94
-리,理,요리사,料理師,chef,94
-리,理,요리,料理,cooking,94
-랑,X,프랑스어,X,French (language),95
-랑,X,프랑스,X,France,95
-랑,X,사랑하다,X,to love,95
-람,X,사람,X,human / person,96
-람,X,뒷사람,X,person behind,96
-람,X,눈사람,X,snowman,96
-동,動,운동하다,運動하다,to exercise / to work out,97
-동,動,운동,運動,exercise / workout,97
-동,動,명동,鳴動,Myeong-dong,97
-동,X,인사동,X,Insa-dong,98
-동,X,명동역,X,Myeongdong Station,98
-동,X,남동생,X,younger brother,98
-도,X,도쿄,X,Tokyo,99
-도,X,도착하다,X,to arrive,99
-도,X,도와주다,X,to help,99
-달,X,달리다,X,to run,100
-달,X,달러,X,dollar,100
-달,X,달,X,month,100
-뉴,X,메뉴,X,menu,101
-뉴,X,뉴욕,X,New York,101
-뉴,X,뉴스,X,news,101
-누,X,누나,X,elder sister from a male perspective,102
-누,X,누구,X,who,102
-누,X,누가,X,who,102
-노,X,피아노,X,piano,103
-노,X,노래하다,X,to sing,103
-노,X,노란색,X,yellow,103
-공,空,인천공항,仁川空港,Incheon Airport,104
-공,空,공항,空港,airport,104
-공,空,공책,空冊,notebook,104
-회,會,회사원,會社員,company employee,105
-회,會,회사,會社,company,105
-혼,婚,결혼하다,結婚하다,to marry,106
-혼,婚,결혼,結婚,marriage,106
-호,號,호선,號線,subway line number,107
-호,號,전화번호,電話番號,telephone number,107
-항,港,인천공항,仁川空港,Incheon Airport,108
-항,港,공항,空港,airport,108
-할,X,할아버지,X,grandfather,109
-할,X,할머니,X,grandmother,109
-한,X,한번,X,once,110
-한,X,한,X,one (when modifying a counting unit that follows),110
-하,下,지하철역,地下鐵驛,subway station,111
-하,下,지하철,地下鐵,subway,111
-표,票,투표하다,投票하다,to vote,112
-표,票,투표,投票,vote,112
-표,X,표,X,ticket,113
-표,X,기차표,X,train ticket,113
-편,便,편지,便紙,letter,114
-편,便,남편,男便,husband,114
-투,投,투표하다,投票하다,to vote,115
-투,投,투표,投票,vote,115
-텔,X,호텔,X,hotel,116
-텔,X,텔레비전,X,television,116
-타,X,타다,X,to get on to ride,117
-타,X,갈아타다,X,to transfer,117
-키,X,스키장,X,ski resort,118
-키,X,스키,X,skiing,118
-코,X,코트,X,coat,119
-코,X,코,X,nose,119
-커,X,커피숍,X,coffee shop,120
-커,X,커피,X,coffee,120
-카,X,카메라,X,camera,121
-카,X,아프리카,X,Africa,121
-침,X,아침,X,morning,122
-침,X,기침,X,cough,122
-칠,X,칠,X,seven,123
-칠,X,며칠,X,what date,123
-출,出,출발하다,出發하다,to depart,124
-출,出,출발,出發,departure,124
-청,淸,청소하다,淸掃하다,to clean,125
-청,淸,청소,淸掃,cleaning,125
-청,X,청바지,X,jeans,126
-청,X,시청역,X,City Hall Station,126
-철,鐵,지하철역,地下鐵驛,subway station,127
-철,鐵,지하철,地下鐵,subway,127
-착,X,착하다,X,to be kind / good-natured,128
-착,X,도착하다,X,to arrive,128
-차,車,주차장,駐車場,parking lot,129
-차,車,기차,汽車,train,129
-차,茶,홍차,紅茶,black tea,130
-차,茶,녹차,綠茶,green tea,130
-차,X,차,X,car | tea,131
-차,X,기차표,X,train ticket,131
-쪽,X,왼쪽,X,left side,132
-쪽,X,오른쪽,X,right side,132
-집,X,집안일,X,chores,133
-집,X,집,X,house,133
-직,職,직원,職員,staff,134
-직,職,직업,職業,job/ occupation,134
-지,紙,편지,便紙,letter,135
-지,紙,지갑,紙匣,wallet,135
-지,地,지하철역,地下鐵驛,subway station,136
-지,地,지하철,地下鐵,subway,136
-주,週,주일,週日,week,137
-주,週,주말,週末,weekend,137
-좋,X,좋아하다,X,to like,138
-좋,X,좋다,X,good,138
-제,題,숙제하다,宿題하다,to do homework,139
-제,題,숙제,宿題,homework,139
-정,X,정말,X,"really, truly",140
-정,X,걱정,X,worry / concern,140
-전,X,텔레비전,X,television,141
-전,X,전혀,X,not at all,141
-재,X,재미있다,X,interesting,142
-재,X,재미없다,X,not interesting,142
-장,X,옷장,X,wardrobe / closet,143
-장,X,스키장,X,ski resort,143
-자,自,자주,自主,often,144
-자,自,자전거,自轉車,bicycle,144
-의,X,회의하다,X,to hold a meeting,145
-의,X,예술의,X,arts,145
-은,銀,은행원,銀行員,bank clerk,146
-은,銀,은행,銀行,bank,146
-옷,X,옷장,X,wardrobe / closet,147
-옷,X,옷,X,clothes,147
-오,午,오후,午後,afternoon / p.m.,148
-오,午,오전,午前,morning / a.m.,148
-영,英,영어,英語,English (language),149
-영,英,영국,英國,the United Kingdom,149
-열,X,열다,X,to open,150
-열,X,열,X,ten | fever,150
-여,女,여자,女子,woman female,151
-여,女,여동생,女同生,younger sister,151
-얼,X,얼마나,X,how long,152
-얼,X,얼마,X,how much,152
-언,X,언제,X,when,153
-언,X,언니,X,elder sister (female pov),153
-약,X,예약하다,X,to reserve,154
-약,X,약,X,medicine,154
-야,野,야채,野菜,vegetable,155
-야,野,야구,野球,baseball,155
-씨,X,씨,X,"Mr., Miss, Mrs., Ms.",156
-씨,X,날씨,X,weather,156
-싸,X,싸다,X,cheap,157
-싸,X,비싸다,X,expensive,157
-심,X,심심하다,X,bored,158
-심,X,심심하다,X,bored,158
-신,X,신발,X,shoes,159
-신,X,신다,X,to put on (shoes),159
-식,食,음식,飮食,food,160
-식,食,식당,食堂,restaurant,160
-술,X,예술의,X,arts,161
-술,X,술,X,liquor,161
-손,X,손님,X,customer / guest,162
-손,X,손,X,hand,162
-소,掃,청소하다,淸掃하다,to clean,163
-소,掃,청소,淸掃,cleaning,163
-소,所,주소,住所,address,164
-소,所,세탁소,洗濯所,dry cleaner's,164
-섯,X,여섯,X,six,165
-섯,X,다섯,X,five,165
-선,鮮,생선회,生鮮膾,sliced raw fish,166
-선,鮮,생선,生鮮,fish,166
-서,書,엽서,葉書,postcard,167
-서,書,도서관,圖書館,library,167
-서,X,서울,X,Seoul,168
-서,X,그래서,X,so,168
-삼,X,삼성역,X,Samseong Station,169
-삼,X,삼,X,three,169
-살,X,살다,X,to live,170
-살,X,살,X,-years old/counting unit for age | flesh,170
-빠,X,오빠,X,elder brother from a female perspective,171
-빠,X,빠르다,X,to be fast,171
-부,夫,공부하다,工夫하다,to study,172
-부,夫,공부,工夫,study / learning,172
-부,X,부치다,X,to send / to mail,173
-부,X,부엌,X,kitchen,173
-보,X,보다,X,to see / to watch / to look at,174
-보,X,보내다,X,to send / to mail,174
-베,X,베트남,X,Vietnam,175
-베,X,베이징,X,Beijing,175
-방,房,책방,冊房,bookstore,176
-방,房,온돌방,溫突房,traditional Korean room / hot-floored room,176
-방,X,방콕,X,Bangkok,177
-방,X,방,X,room with a bed,177
-발,發,출발하다,出發하다,to depart,178
-발,發,출발,出發,departure,178
-발,X,신발,X,shoes,179
-발,X,발,X,foot,179
-명,X,명동역,X,Myeongdong Station,180
-명,X,명,X,counting unit for people,180
-맛,X,맛있다,X,tasty / delicious,181
-맛,X,맛없다,X,untasty,181
-많,X,많이,X,a lot / many / much,182
-많,X,많다,X,many / much,182
-림,X,아이스크림,X,ice cream,183
-림,X,그림,X,picture / drawing,183
-른,X,오른쪽,X,right side,184
-른,X,다른,X,other,184
-르,X,빠르다,X,to be fast,185
-르,X,가르치다,X,to teach,185
-로,X,별로,X,"not really, not particularly",186
-로,X,로마,X,Rome,186
-레,X,텔레비전,X,television,187
-레,X,말레이시아,X,Malaysia,187
-렇,X,이렇게,X,like this /in this way,188
-렇,X,그렇지만,X,but,188
-럽,X,유럽,X,Europe,189
-럽,X,시끄럽다,X,noisy,189
-런,X,런던,X,London,190
-런,X,그런데,X,but/ by the way,190
-란,X,파란색,X,blue,191
-란,X,노란색,X,yellow,191
-락,X,젓가락,X,chopsticks,192
-락,X,숟가락,X,spoon,192
-똑,X,똑똑하다,X,smart,193
-똑,X,똑똑하다,X,smart,193
-등,等,초등학생,初等學生,elementary school student,194
-등,等,고등학생,高等學生,high school student,194
-동,同,여동생,女同生,younger sister,195
-동,同,동생,同生,younger brother or sister,195
-님,X,손님,X,customer / guest,196
-님,X,선생님,X,teacher,196
-눈,X,눈사람,X,snowman,197
-눈,X,눈,X,eye | snow,197
-녹,綠,녹차,綠茶,green tea,198
-녹,綠,녹색,綠色,green,198
-냉,冷,냉장고,冷藏庫,refrigerator,199
-냉,冷,냉면,冷麵,naengmyeon,199
-내,內,안내,案內,information guide,200
-내,內,시내,市內,downtown,200
-남,男,남편,男便,husband,201
-남,男,남자,男子,man male,201
-남,X,베트남,X,Vietnam,202
-남,X,남동생,X,younger brother,202
-끝,X,끝내다,X,to finish,203
-끝,X,끝나다,X,to be finished,203
-까,X,아까,X,"earlier (today), a while ago (today)",204
-까,X,까만색,X,black,204
-김,X,김치,X,kimchi,205
-김,X,김밥,X,gimbap,205
-길,X,길다,X,long,206
-길,X,길,X,road / way,206
-기,記,일기,日記,diary,207
-기,記,기자,記者,reporter,207
-기,氣,기분,氣分,feeling,208
-기,氣,감기,感氣,cold,208
-금,金,요금,料金,fare charge,209
-금,金,금요일,金曜日,Friday,209
-국,局,우체국,郵遞局,post office,210
-국,局,약국,藥局,pharmacy,210
-구,球,축구,蹴球,soccer,211
-구,球,야구,野球,baseball,211
-구,X,누구,X,who,212
-구,X,구,X,nine,212
-공,工,공부하다,工夫하다,to study,213
-공,工,공부,工夫,study / learning,213
-결,結,결혼하다,結婚하다,to marry,214
-결,結,결혼,結婚,marriage,214
-개,X,지우개,X,eraser,215
-개,X,개,X,counting unit for general items,215
-간,間,시간표,時間表,time table,216
-간,間,시간,時間,hour,216
+hangul_char,hanja_char,hangul_word,hanja_word_with_x,English_translation,hangul_hanja_char_tuple_rank
+아,X,할아버지,X,grandfather,217
+아,X,피아노,X,piano,217
+아,X,좋아하다,X,to like,217
+아,X,아홉,X,nine,217
+아,X,아프리카,X,Africa,217
+아,X,아프다,X,to be hurting / ill / in pain / hurt,217
+아,X,아침,X,morning,217
+아,X,아직,X,"(not) yet, still",217
+아,X,아주,X,very / quite,217
+아,X,아이스크림,X,ice cream,217
+아,X,아이,X,child,217
+아,X,아버지,X,father,217
+아,X,아래,X,under / below,217
+아,X,아들,X,son,217
+아,X,아내,X,wife,217
+아,X,아까,X,"earlier (today), a while ago (today)",217
+아,X,아기,X,baby,217
+아,X,말레이시아,X,Malaysia,217
+아,X,갈아타다,X,to transfer,217
+이,X,케이크,X,cake,216
+이,X,이야기하다,X,to talk,216
+이,X,이상하다,X,to be strange,216
+이,X,이분,X,this person (honorific),216
+이,X,이번,X,this time,216
+이,X,이메일,X,e-mail,216
+이,X,이름,X,name,216
+이,X,이렇게,X,like this /in this way,216
+이,X,이거,X,this (one),216
+이,X,이,X,this | two,216
+이,X,아이스크림,X,ice cream,216
+이,X,아이,X,child,216
+이,X,베이징,X,Beijing,216
+이,X,말레이시아,X,Malaysia,216
+이,X,많이,X,a lot / many / much,216
+이,X,다이어트,X,diet,216
+이,X,같이,X,together,216
+일,日,화요일,火曜日,Tuesday,215
+일,日,토요일,土曜日,Saturday,215
+일,日,주일,週日,week,215
+일,日,일요일,日曜日,Sunday,215
+일,日,일요일,日曜日,Sunday,215
+일,日,일본어,日本語,Japanese (language),215
+일,日,일기,日記,diary,215
+일,日,월요일,月曜日,Monday,215
+일,日,요일,曜日,a day of the week,215
+일,日,수요일,水曜日,Wednesday,215
+일,日,생일,生日,birthday,215
+일,日,목요일,木曜日,Thursday,215
+일,日,매일,每日,every day,215
+일,日,내일,來日,tomorrow,215
+일,日,금요일,金曜日,Friday,215
+리,X,허리,X,waist,214
+리,X,파리,X,Paris,214
+리,X,자리,X,seat place,214
+리,X,우리,X,we / our,214
+리,X,아프리카,X,Africa,214
+리,X,빨리,X,quickly,214
+리,X,머리,X,head,214
+리,X,마드리드,X,Madrid,214
+리,X,달리다,X,to run,214
+리,X,다리,X,leg,214
+리,X,내리다,X,to get off,214
+리,X,기다리다,X,to wait,214
+리,X,그리다,X,to draw to paint,214
+리,X,그리고,X,and,214
+리,X,걸리다,X,to take (time),214
+어,X,프랑스어,X,French (language),213
+어,X,일어나다,X,to get up,213
+어,X,어제,X,yesterday,213
+어,X,어머니,X,mother,213
+어,X,어렵다,X,difficult,213
+어,X,어떻게,X,how,213
+어,X,어떤,X,what kind of,213
+어,X,어디,X,where,213
+어,X,어깨,X,shoulder,213
+어,X,들어가다,X,to go in to enter,213
+어,X,다이어트,X,diet,213
+어,X,넘어지다,X,fall down,213
+나,X,하나,X,one,212
+나,X,캐나다,X,Canada,212
+나,X,일어나다,X,to get up,212
+나,X,얼마나,X,how long,212
+나,X,바나나,X,banana,212
+나,X,바나나,X,banana,212
+나,X,만나다,X,to meet,212
+나,X,누나,X,elder sister from a male perspective,212
+나,X,나중에,X,"later, next time",212
+나,X,나쁘다,X,bad,212
+나,X,나다,X,to have (a fever/a runny nose),212
+나,X,끝나다,X,to be finished,212
+스,X,프랑스어,X,French (language),211
+스,X,프랑스,X,France,211
+스,X,테니스,X,tennis,211
+스,X,주스,X,juice,211
+스,X,아이스크림,X,ice cream,211
+스,X,스파게티,X,spaghetti,211
+스,X,스키장,X,ski resort,211
+스,X,스키,X,skiing,211
+스,X,버스,X,bus,211
+스,X,뉴스,X,news,211
+생,生,학생,學生,student,210
+생,生,초등학생,初等學生,elementary school student,210
+생,生,중학생,中學生,middle school student,210
+생,生,여동생,女同生,younger sister,210
+생,生,생일,生日,birthday,210
+생,生,생선회,生鮮膾,sliced raw fish,210
+생,生,생선,生鮮,fish,210
+생,生,동생,同生,younger brother or sister,210
+생,生,대학생,大學生,university student,210
+생,生,고등학생,高等學生,high school student,210
+그,X,그분,X,that person (honorific),209
+그,X,그림,X,picture / drawing,209
+그,X,그리다,X,to draw to paint,209
+그,X,그리고,X,and,209
+그,X,그렇지만,X,but,209
+그,X,그럼,X,then / in that case,209
+그,X,그런데,X,but/ by the way,209
+그,X,그래서,X,so,209
+그,X,그거,X,that (one),209
+그,X,그,X,that,209
+지,X,할아버지,X,grandfather,208
+지,X,청바지,X,jeans,208
+지,X,지우개,X,eraser,208
+지,X,오렌지,X,orange,208
+지,X,아버지,X,father,208
+지,X,바지,X,trousers pants,208
+지,X,만지다,X,to touch,208
+지,X,넘어지다,X,fall down,208
+지,X,그렇지만,X,but,208
+기,X,이야기하다,X,to talk,207
+기,X,여기,X,here,207
+기,X,아기,X,baby,207
+기,X,불고기,X,bulgogi,207
+기,X,말하기,X,speaking,207
+기,X,기침,X,cough,207
+기,X,기차표,X,train ticket,207
+기,X,기다리다,X,to wait,207
+기,X,고기,X,meat,207
+피,X,피자,X,pizza,206
+피,X,피우다,X,to smoke (a cigarette),206
+피,X,피아노,X,piano,206
+피,X,피라미드,X,pyramid,206
+피,X,피곤하다,X,tired,206
+피,X,피,X,blood,206
+피,X,커피숍,X,coffee shop,206
+피,X,커피,X,coffee,206
+일,X,집안일,X,chores,205
+일,X,일하다,X,to work,205
+일,X,일어나다,X,to get up,205
+일,X,일곱,X,seven,205
+일,X,일,X,one | day | work,205
+일,X,이메일,X,e-mail,205
+일,X,세일,X,sale,205
+일,X,과일,X,fruit,205
+월,月,월요일,月曜日,Monday,204
+월,月,오월,五月,May,204
+월,月,십일월,十一月,November,204
+월,月,십이월,十二月,December,204
+월,月,시월,十月,October,204
+월,月,삼월,三月,March,204
+월,月,사월,四月,April,204
+월,月,구월,九月,September,204
+요,曜,화요일,火曜日,Tuesday,203
+요,曜,토요일,土曜日,Saturday,203
+요,曜,일요일,日曜日,Sunday,203
+요,曜,월요일,月曜日,Monday,203
+요,曜,요일,曜日,a day of the week,203
+요,曜,수요일,水曜日,Wednesday,203
+요,曜,목요일,木曜日,Thursday,203
+요,曜,금요일,金曜日,Friday,203
+사,X,인사동,X,Insa-dong,202
+사,X,사용하다,X,to use,202
+사,X,사랑하다,X,to love,202
+사,X,사람,X,human / person,202
+사,X,사다,X,to buy,202
+사,X,사,X,four,202
+사,X,뒷사람,X,person behind,202
+사,X,눈사람,X,snowman,202
+다,X,다치다,X,to be hurt,201
+다,X,다이어트,X,diet,201
+다,X,다음,X,next,201
+다,X,다섯,X,five,201
+다,X,다리,X,leg,201
+다,X,다른,X,other,201
+다,X,다니다,X,to go to (a company) / to work for,201
+다,X,기다리다,X,to wait,201
+국,國,한국어,韓國語,Korean (language),200
+국,國,한국,韓國,Korea,200
+국,國,중국어,中國語,Chinese (language),200
+국,國,중국,中國,China,200
+국,國,외국,外國,foreign country,200
+국,國,영국,英國,the United Kingdom,200
+국,國,미국,美國,the United States of America,200
+국,國,국적,國籍,nationality,200
+학,學,학생,學生,student,199
+학,學,학교,學校,school,199
+학,學,초등학생,初等學生,elementary school student,199
+학,學,중학생,中學生,middle school student,199
+학,學,방학,放學,school holidays,199
+학,學,대학생,大學生,university student,199
+학,學,고등학생,高等學生,high school student,199
+시,X,택시,X,taxi,198
+시,X,시청역,X,City Hall Station,198
+시,X,시끄럽다,X,noisy,198
+시,X,시,X,o'clock,198
+시,X,말레이시아,X,Malaysia,198
+시,X,드시다,X,to eat (honorific),198
+시,X,계시다,X,to be/to stay (honorific),198
+가,X,젓가락,X,chopsticks,197
+가,X,숟가락,X,spoon,197
+가,X,들어가다,X,to go in to enter,197
+가,X,누가,X,who,197
+가,X,가르치다,X,to teach,197
+가,X,가다,X,to go,197
+가,X,가게,X,store / shop,197
+행,行,은행원,銀行員,bank clerk,196
+행,行,은행,銀行,bank,196
+행,行,여행하다,旅行하다,to travel,196
+행,行,여행사,旅行社,travel agency,196
+행,行,여행,旅行,trip travel,196
+행,行,비행기,飛行機,airplane,196
+프,X,프랑스어,X,French (language),195
+프,X,프랑스,X,France,195
+프,X,아프리카,X,Africa,195
+프,X,아프다,X,to be hurting / ill / in pain / hurt,195
+프,X,슬프다,X,sad,195
+프,X,배고프다,X,hungry,195
+치,X,치마,X,skirt,194
+치,X,치다,X,to play / to hit / to strike,194
+치,X,부치다,X,to send / to mail,194
+치,X,다치다,X,to be hurt,194
+치,X,김치,X,kimchi,194
+치,X,가르치다,X,to teach,194
+오,X,오빠,X,elder brother from a female perspective,193
+오,X,오른쪽,X,right side,193
+오,X,오렌지,X,orange,193
+오,X,오다,X,to come,193
+오,X,오늘,X,today,193
+오,X,오,X,five,193
+색,X,하얀색,X,white,192
+색,X,파란색,X,blue,192
+색,X,색,X,color,192
+색,X,빨간색,X,red,192
+색,X,노란색,X,yellow,192
+색,X,까만색,X,black,192
+바,X,청바지,X,jeans,191
+바,X,바지,X,trousers pants,191
+바,X,바쁘다,X,busy,191
+바,X,바다,X,sea ocean,191
+바,X,바나나,X,banana,191
+바,X,바꾸다,X,to change | to exchange,191
+마,X,치마,X,skirt,190
+마,X,얼마나,X,how long,190
+마,X,얼마,X,how much,190
+마,X,마드리드,X,Madrid,190
+마,X,로마,X,Rome,190
+마,X,드라마,X,drama (TV series),190
+드,X,핸드폰,X,mobile phone,189
+드,X,피라미드,X,pyramid,189
+드,X,마드리드,X,Madrid,189
+드,X,마드리드,X,Madrid,189
+드,X,드시다,X,to eat (honorific),189
+드,X,드라마,X,drama (TV series),189
+내,X,아내,X,wife,188
+내,X,보내다,X,to send / to mail,188
+내,X,내리다,X,to get off,188
+내,X,내다,X,to pay,188
+내,X,내,X,my,188
+내,X,끝내다,X,to finish,188
+파,X,파티,X,party,187
+파,X,파리,X,Paris,187
+파,X,파란색,X,blue,187
+파,X,스파게티,X,spaghetti,187
+파,X,소파,X,sofa,187
+우,X,피우다,X,to smoke (a cigarette),186
+우,X,지우개,X,eraser,186
+우,X,우리,X,we / our,186
+우,X,세우다,X,to stop,186
+우,X,배우다,X,to learn,186
+비,X,텔레비전,X,television,185
+비,X,준비하다,X,to prepare,185
+비,X,비싸다,X,expensive,185
+비,X,비빔밥,X,bibimbap,185
+비,X,비,X,rain,185
+만,X,만지다,X,to touch,184
+만,X,만들다,X,to make,184
+만,X,만나다,X,to meet,184
+만,X,까만색,X,black,184
+만,X,그렇지만,X,but,184
+라,X,피라미드,X,pyramid,183
+라,X,콜라,X,cola,183
+라,X,카메라,X,camera,183
+라,X,브라질,X,Brasil,183
+라,X,드라마,X,drama (TV series),183
+들,X,힘들다,X,laborous hard,182
+들,X,아들,X,son,182
+들,X,만들다,X,to make,182
+들,X,들어가다,X,to go in to enter,182
+들,X,들다,X,to be contained,182
+니,X,할머니,X,grandmother,181
+니,X,테니스,X,tennis,181
+니,X,언니,X,elder sister (female pov),181
+니,X,어머니,X,mother,181
+니,X,다니다,X,to go to (a company) / to work for,181
+하,X,하얀색,X,white,180
+하,X,하루,X,one day,180
+하,X,하나,X,one,180
+하,X,말하기,X,speaking,180
+크,X,포크,X,fork,179
+크,X,크다,X,big,179
+크,X,케이크,X,cake,179
+크,X,아이스크림,X,ice cream,179
+주,X,주스,X,juice,178
+주,X,주다,X,to give,178
+주,X,아주,X,very / quite,178
+주,X,도와주다,X,to help,178
+저,X,저분,X,that person (honorific),177
+저,X,저녁,X,evening,177
+저,X,저거,X,that (one),177
+저,X,저,X,he / she | that,177
+장,場,주차장,駐車場,parking lot,176
+장,場,시장,市場,market,176
+장,場,수영장,水泳場,swimming pool,176
+장,場,극장,劇場,movie theater,176
+자,子,의자,椅子,chair,175
+자,子,여자,女子,woman female,175
+자,子,모자,帽子,hat / cap,175
+자,子,남자,男子,man male,175
+자,X,혼자,X,alone,174
+자,X,피자,X,pizza,174
+자,X,자리,X,seat place,174
+자,X,자다,X,to sleep,174
+있,X,재미있다,X,interesting,173
+있,X,있다,X,to have,173
+있,X,멋있다,X,"to be nice, to be stylish",173
+있,X,맛있다,X,tasty / delicious,173
+원,員,회사원,會社員,company employee,172
+원,員,직원,職員,staff,172
+원,員,은행원,銀行員,bank clerk,172
+원,員,연구원,硏究員,researcher,172
+운,運,운전하다,運轉하다,to drive,171
+운,運,운전,運轉,driving,171
+운,運,운동하다,運動하다,to exercise / to work out,171
+운,運,운동,運動,exercise / workout,171
+요,料,요리하다,料理하다,to cook,170
+요,料,요리사,料理師,chef,170
+요,料,요리,料理,cooking,170
+요,料,요금,料金,fare charge,170
+어,語,한국어,韓國語,Korean (language),169
+어,語,중국어,中國語,Chinese (language),169
+어,語,일본어,日本語,Japanese (language),169
+어,語,영어,英語,English (language),169
+수,水,수요일,水曜日,Wednesday,168
+수,水,수영하다,水泳하다,to swim,168
+수,水,수영장,水泳場,swimming pool,168
+수,水,수영,水泳,swimming,168
+분,X,저분,X,that person (honorific),167
+분,X,이분,X,this person (honorific),167
+분,X,분,X,minute,167
+분,X,그분,X,that person (honorific),167
+버,X,햄버거,X,hamburger,166
+버,X,할아버지,X,grandfather,166
+버,X,아버지,X,father,166
+버,X,버스,X,bus,166
+배,X,배우다,X,to learn,165
+배,X,배고프다,X,hungry,165
+배,X,배,X,abdomen / stomach | ship/boat,165
+배,X,담배,X,cigarette,165
+미,X,피라미드,X,pyramid,164
+미,X,재미있다,X,interesting,164
+미,X,재미없다,X,not interesting,164
+미,X,미안하다,X,sorry,164
+무,X,무슨,X,what kind of,163
+무,X,무섭다,X,scary,163
+무,X,무겁다,X,heavy,163
+무,X,너무,X,too,163
+래,X,아래,X,under / below,162
+래,X,빨래하다,X,to do laundry,162
+래,X,노래하다,X,to sing,162
+래,X,그래서,X,so,162
+고,X,불고기,X,bulgogi,161
+고,X,배고프다,X,hungry,161
+고,X,그리고,X,and,161
+고,X,고기,X,meat,161
+게,X,이렇게,X,like this /in this way,160
+게,X,어떻게,X,how,160
+게,X,스파게티,X,spaghetti,160
+게,X,가게,X,store / shop,160
+거,X,햄버거,X,hamburger,159
+거,X,저거,X,that (one),159
+거,X,이거,X,this (one),159
+거,X,그거,X,that (one),159
+화,話,전화하다,電話하다,to call,158
+화,話,전화번호,電話番號,telephone number,158
+화,話,전화,電話,cellular phone | telephone,158
+한,韓,한복,韓服,hanbok (traditional Korean costume),157
+한,韓,한국어,韓國語,Korean (language),157
+한,韓,한국,韓國,Korea,157
+티,X,파티,X,party,156
+티,X,티셔츠,X,T-shirt,156
+티,X,스파게티,X,spaghetti,156
+트,X,코트,X,coat,155
+트,X,베트남,X,Vietnam,155
+트,X,다이어트,X,diet,155
+책,冊,책상,冊床,desk,154
+책,冊,책방,冊房,bookstore,154
+책,冊,공책,空冊,notebook,154
+중,中,중학생,中學生,middle school student,153
+중,中,중국어,中國語,Chinese (language),153
+중,中,중국,中國,China,153
+제,X,제,X,my,152
+제,X,언제,X,when,152
+제,X,어제,X,yesterday,152
+전,電,전화하다,電話하다,to call,151
+전,電,전화번호,電話番號,telephone number,151
+전,電,전화,電話,cellular phone | telephone,151
+전,轉,자전거,自轉車,bicycle,150
+전,轉,운전하다,運轉하다,to drive,150
+전,轉,운전,運轉,driving,150
+예,X,예약하다,X,to reserve,149
+예,X,예술의,X,arts,149
+예,X,예쁘다,X,pretty,149
+영,泳,수영하다,水泳하다,to swim,148
+영,泳,수영장,水泳場,swimming pool,148
+영,泳,수영,水泳,swimming,148
+역,X,시청역,X,City Hall Station,147
+역,X,삼성역,X,Samseong Station,147
+역,X,명동역,X,Myeongdong Station,147
+여,旅,여행하다,旅行하다,to travel,146
+여,旅,여행사,旅行社,travel agency,146
+여,旅,여행,旅行,trip travel,146
+여,X,여섯,X,six,145
+여,X,여덟,X,eight,145
+여,X,여기,X,here,145
+없,X,재미없다,X,not interesting,144
+없,X,없다,X,not to have,144
+없,X,맛없다,X,untasty,144
+안,X,집안일,X,chores,143
+안,X,안,X,inside | not,143
+안,X,미안하다,X,sorry,143
+십,十,십일월,十一月,November,142
+십,十,십이월,十二月,December,142
+십,十,십만,十萬,hundred thousand,142
+실,室,화장실,化粧室,rest room,141
+실,室,사무실,事務室,office,141
+실,室,교실,敎室,classroom,141
+시,時,시계,時計,watch / clock,140
+시,時,시간표,時間表,time table,140
+시,時,시간,時間,hour,140
+시,市,시청,市廳,city hall,139
+시,市,시장,市場,market,139
+시,市,시내,市內,downtown,139
+숙,宿,숙제하다,宿題하다,to do homework,138
+숙,宿,숙제,宿題,homework,138
+숙,宿,기숙사,寄宿舍,dormitory,138
+세,X,세일,X,sale,137
+세,X,세우다,X,to stop,137
+세,X,세,X,three (when modifying a counting unit that follows),137
+생,X,선생님,X,teacher,136
+생,X,생각,X,thinking / thought,136
+생,X,남동생,X,younger brother,136
+색,色,회색,灰色,grey,135
+색,色,녹색,綠色,green,135
+색,色,갈색,褐色,brown,135
+산,山,한라산,漢拏山,Hallasan,134
+산,山,부산,釜山,Busan,134
+산,山,등산,登山,mountain climbing / hiking,134
+사,社,회사원,會社員,company employee,133
+사,社,회사,會社,company,133
+사,社,여행사,旅行社,travel agency,133
+사,師,의사,醫師,doctor,132
+사,師,요리사,料理師,chef,132
+사,師,간호사,看護師,nurse,132
+쁘,X,예쁘다,X,pretty,131
+쁘,X,바쁘다,X,busy,131
+쁘,X,나쁘다,X,bad,131
+빨,X,빨리,X,quickly,130
+빨,X,빨래하다,X,to do laundry,130
+빨,X,빨간색,X,red,130
+번,X,한번,X,once,129
+번,X,이번,X,this time,129
+번,X,번,X,counting unit after number,129
+밥,X,비빔밥,X,bibimbap,128
+밥,X,밥,X,steamed rice | meal,128
+밥,X,김밥,X,gimbap,128
+물,X,콧물,X,runny nose,127
+물,X,찬물,X,cold water,127
+물,X,물,X,water,127
+메,X,카메라,X,camera,126
+메,X,이메일,X,e-mail,126
+메,X,메뉴,X,menu,126
+머,X,할머니,X,grandmother,125
+머,X,어머니,X,mother,125
+머,X,머리,X,head,125
+말,X,정말,X,"really, truly",124
+말,X,말하기,X,speaking,124
+말,X,말레이시아,X,Malaysia,124
+리,理,요리하다,料理하다,to cook,123
+리,理,요리사,料理師,chef,123
+리,理,요리,料理,cooking,123
+랑,X,프랑스어,X,French (language),122
+랑,X,프랑스,X,France,122
+랑,X,사랑하다,X,to love,122
+람,X,사람,X,human / person,121
+람,X,뒷사람,X,person behind,121
+람,X,눈사람,X,snowman,121
+동,動,운동하다,運動하다,to exercise / to work out,120
+동,動,운동,運動,exercise / workout,120
+동,動,명동,鳴動,Myeong-dong,120
+동,X,인사동,X,Insa-dong,119
+동,X,명동역,X,Myeongdong Station,119
+동,X,남동생,X,younger brother,119
+도,X,도쿄,X,Tokyo,118
+도,X,도착하다,X,to arrive,118
+도,X,도와주다,X,to help,118
+달,X,달리다,X,to run,117
+달,X,달러,X,dollar,117
+달,X,달,X,month,117
+뉴,X,메뉴,X,menu,116
+뉴,X,뉴욕,X,New York,116
+뉴,X,뉴스,X,news,116
+누,X,누나,X,elder sister from a male perspective,115
+누,X,누구,X,who,115
+누,X,누가,X,who,115
+노,X,피아노,X,piano,114
+노,X,노래하다,X,to sing,114
+노,X,노란색,X,yellow,114
+공,空,인천공항,仁川空港,Incheon Airport,113
+공,空,공항,空港,airport,113
+공,空,공책,空冊,notebook,113
+회,會,회사원,會社員,company employee,112
+회,會,회사,會社,company,112
+혼,婚,결혼하다,結婚하다,to marry,111
+혼,婚,결혼,結婚,marriage,111
+호,號,호선,號線,subway line number,110
+호,號,전화번호,電話番號,telephone number,110
+항,港,인천공항,仁川空港,Incheon Airport,109
+항,港,공항,空港,airport,109
+할,X,할아버지,X,grandfather,108
+할,X,할머니,X,grandmother,108
+한,X,한번,X,once,107
+한,X,한,X,one (when modifying a counting unit that follows),107
+하,下,지하철역,地下鐵驛,subway station,106
+하,下,지하철,地下鐵,subway,106
+표,票,투표하다,投票하다,to vote,105
+표,票,투표,投票,vote,105
+표,X,표,X,ticket,104
+표,X,기차표,X,train ticket,104
+편,便,편지,便紙,letter,103
+편,便,남편,男便,husband,103
+투,投,투표하다,投票하다,to vote,102
+투,投,투표,投票,vote,102
+텔,X,호텔,X,hotel,101
+텔,X,텔레비전,X,television,101
+타,X,타다,X,to get on to ride,100
+타,X,갈아타다,X,to transfer,100
+키,X,스키장,X,ski resort,99
+키,X,스키,X,skiing,99
+코,X,코트,X,coat,98
+코,X,코,X,nose,98
+커,X,커피숍,X,coffee shop,97
+커,X,커피,X,coffee,97
+카,X,카메라,X,camera,96
+카,X,아프리카,X,Africa,96
+침,X,아침,X,morning,95
+침,X,기침,X,cough,95
+칠,X,칠,X,seven,94
+칠,X,며칠,X,what date,94
+출,出,출발하다,出發하다,to depart,93
+출,出,출발,出發,departure,93
+청,淸,청소하다,淸掃하다,to clean,92
+청,淸,청소,淸掃,cleaning,92
+청,X,청바지,X,jeans,91
+청,X,시청역,X,City Hall Station,91
+철,鐵,지하철역,地下鐵驛,subway station,90
+철,鐵,지하철,地下鐵,subway,90
+착,X,착하다,X,to be kind / good-natured,89
+착,X,도착하다,X,to arrive,89
+차,車,주차장,駐車場,parking lot,88
+차,車,기차,汽車,train,88
+차,茶,홍차,紅茶,black tea,87
+차,茶,녹차,綠茶,green tea,87
+차,X,차,X,car | tea,86
+차,X,기차표,X,train ticket,86
+쪽,X,왼쪽,X,left side,85
+쪽,X,오른쪽,X,right side,85
+집,X,집안일,X,chores,84
+집,X,집,X,house,84
+직,職,직원,職員,staff,83
+직,職,직업,職業,job/ occupation,83
+지,紙,편지,便紙,letter,82
+지,紙,지갑,紙匣,wallet,82
+지,地,지하철역,地下鐵驛,subway station,81
+지,地,지하철,地下鐵,subway,81
+주,週,주일,週日,week,80
+주,週,주말,週末,weekend,80
+좋,X,좋아하다,X,to like,79
+좋,X,좋다,X,good,79
+제,題,숙제하다,宿題하다,to do homework,78
+제,題,숙제,宿題,homework,78
+정,X,정말,X,"really, truly",77
+정,X,걱정,X,worry / concern,77
+전,X,텔레비전,X,television,76
+전,X,전혀,X,not at all,76
+재,X,재미있다,X,interesting,75
+재,X,재미없다,X,not interesting,75
+장,X,옷장,X,wardrobe / closet,74
+장,X,스키장,X,ski resort,74
+자,自,자주,自主,often,73
+자,自,자전거,自轉車,bicycle,73
+의,X,회의하다,X,to hold a meeting,72
+의,X,예술의,X,arts,72
+은,銀,은행원,銀行員,bank clerk,71
+은,銀,은행,銀行,bank,71
+옷,X,옷장,X,wardrobe / closet,70
+옷,X,옷,X,clothes,70
+오,午,오후,午後,afternoon / p.m.,69
+오,午,오전,午前,morning / a.m.,69
+영,英,영어,英語,English (language),68
+영,英,영국,英國,the United Kingdom,68
+열,X,열다,X,to open,67
+열,X,열,X,ten | fever,67
+여,女,여자,女子,woman female,66
+여,女,여동생,女同生,younger sister,66
+얼,X,얼마나,X,how long,65
+얼,X,얼마,X,how much,65
+언,X,언제,X,when,64
+언,X,언니,X,elder sister (female pov),64
+약,X,예약하다,X,to reserve,63
+약,X,약,X,medicine,63
+야,野,야채,野菜,vegetable,62
+야,野,야구,野球,baseball,62
+씨,X,씨,X,"Mr., Miss, Mrs., Ms.",61
+씨,X,날씨,X,weather,61
+싸,X,싸다,X,cheap,60
+싸,X,비싸다,X,expensive,60
+심,X,심심하다,X,bored,59
+심,X,심심하다,X,bored,59
+신,X,신발,X,shoes,58
+신,X,신다,X,to put on (shoes),58
+식,食,음식,飮食,food,57
+식,食,식당,食堂,restaurant,57
+술,X,예술의,X,arts,56
+술,X,술,X,liquor,56
+손,X,손님,X,customer / guest,55
+손,X,손,X,hand,55
+소,掃,청소하다,淸掃하다,to clean,54
+소,掃,청소,淸掃,cleaning,54
+소,所,주소,住所,address,53
+소,所,세탁소,洗濯所,dry cleaner's,53
+섯,X,여섯,X,six,52
+섯,X,다섯,X,five,52
+선,鮮,생선회,生鮮膾,sliced raw fish,51
+선,鮮,생선,生鮮,fish,51
+서,書,엽서,葉書,postcard,50
+서,書,도서관,圖書館,library,50
+서,X,서울,X,Seoul,49
+서,X,그래서,X,so,49
+삼,X,삼성역,X,Samseong Station,48
+삼,X,삼,X,three,48
+살,X,살다,X,to live,47
+살,X,살,X,-years old/counting unit for age | flesh,47
+빠,X,오빠,X,elder brother from a female perspective,46
+빠,X,빠르다,X,to be fast,46
+부,夫,공부하다,工夫하다,to study,45
+부,夫,공부,工夫,study / learning,45
+부,X,부치다,X,to send / to mail,44
+부,X,부엌,X,kitchen,44
+보,X,보다,X,to see / to watch / to look at,43
+보,X,보내다,X,to send / to mail,43
+베,X,베트남,X,Vietnam,42
+베,X,베이징,X,Beijing,42
+방,房,책방,冊房,bookstore,41
+방,房,온돌방,溫突房,traditional Korean room / hot-floored room,41
+방,X,방콕,X,Bangkok,40
+방,X,방,X,room with a bed,40
+발,發,출발하다,出發하다,to depart,39
+발,發,출발,出發,departure,39
+발,X,신발,X,shoes,38
+발,X,발,X,foot,38
+명,X,명동역,X,Myeongdong Station,37
+명,X,명,X,counting unit for people,37
+맛,X,맛있다,X,tasty / delicious,36
+맛,X,맛없다,X,untasty,36
+많,X,많이,X,a lot / many / much,35
+많,X,많다,X,many / much,35
+림,X,아이스크림,X,ice cream,34
+림,X,그림,X,picture / drawing,34
+른,X,오른쪽,X,right side,33
+른,X,다른,X,other,33
+르,X,빠르다,X,to be fast,32
+르,X,가르치다,X,to teach,32
+로,X,별로,X,"not really, not particularly",31
+로,X,로마,X,Rome,31
+레,X,텔레비전,X,television,30
+레,X,말레이시아,X,Malaysia,30
+렇,X,이렇게,X,like this /in this way,29
+렇,X,그렇지만,X,but,29
+럽,X,유럽,X,Europe,28
+럽,X,시끄럽다,X,noisy,28
+런,X,런던,X,London,27
+런,X,그런데,X,but/ by the way,27
+란,X,파란색,X,blue,26
+란,X,노란색,X,yellow,26
+락,X,젓가락,X,chopsticks,25
+락,X,숟가락,X,spoon,25
+똑,X,똑똑하다,X,smart,24
+똑,X,똑똑하다,X,smart,24
+등,等,초등학생,初等學生,elementary school student,23
+등,等,고등학생,高等學生,high school student,23
+동,同,여동생,女同生,younger sister,22
+동,同,동생,同生,younger brother or sister,22
+님,X,손님,X,customer / guest,21
+님,X,선생님,X,teacher,21
+눈,X,눈사람,X,snowman,20
+눈,X,눈,X,eye | snow,20
+녹,綠,녹차,綠茶,green tea,19
+녹,綠,녹색,綠色,green,19
+냉,冷,냉장고,冷藏庫,refrigerator,18
+냉,冷,냉면,冷麵,naengmyeon,18
+내,內,안내,案內,information guide,17
+내,內,시내,市內,downtown,17
+남,男,남편,男便,husband,16
+남,男,남자,男子,man male,16
+남,X,베트남,X,Vietnam,15
+남,X,남동생,X,younger brother,15
+끝,X,끝내다,X,to finish,14
+끝,X,끝나다,X,to be finished,14
+까,X,아까,X,"earlier (today), a while ago (today)",13
+까,X,까만색,X,black,13
+김,X,김치,X,kimchi,12
+김,X,김밥,X,gimbap,12
+길,X,길다,X,long,11
+길,X,길,X,road / way,11
+기,記,일기,日記,diary,10
+기,記,기자,記者,reporter,10
+기,氣,기분,氣分,feeling,9
+기,氣,감기,感氣,cold,9
+금,金,요금,料金,fare charge,8
+금,金,금요일,金曜日,Friday,8
+국,局,우체국,郵遞局,post office,7
+국,局,약국,藥局,pharmacy,7
+구,球,축구,蹴球,soccer,6
+구,球,야구,野球,baseball,6
+구,X,누구,X,who,5
+구,X,구,X,nine,5
+공,工,공부하다,工夫하다,to study,4
+공,工,공부,工夫,study / learning,4
+결,結,결혼하다,結婚하다,to marry,3
+결,結,결혼,結婚,marriage,3
+개,X,지우개,X,eraser,2
+개,X,개,X,counting unit for general items,2
+간,間,시간표,時間表,time table,1
+간,間,시간,時間,hour,1
