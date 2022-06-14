@@ -36,24 +36,35 @@ def get_non_stop_words(x):
     return tuple(non_stop_words_out)
 
 
-def get_hanja_parts(x):
+def get_all_substsrs(_str):
+    return [_str[i: j] for i in range(len(_str))
+            for j in range(i + 1, len(_str) + 1)]
+
+
+def get_hanja_substrs(x):
     hanja_wo_hada = x[:-2] if x.endswith('하다') else x
-    return tuple(hanja_wo_hada)
+    if len(hanja_wo_hada) < 1:
+        return 'X'
+    else:
+        return get_all_substsrs(hanja_wo_hada)
 
 
-def get_hangul_parts(x):
+def get_hangul_substrs(x):
     hangul_wo_hada = x[:-2] if x.endswith('하다') else x
     hangul_wo_hada = x[:-1] if hangul_wo_hada.endswith('다') else hangul_wo_hada
-    return tuple(hangul_wo_hada)
+    if len(hangul_wo_hada) < 1:
+        return 'X'
+    else:
+        return get_all_substsrs(hangul_wo_hada)
 
 
 def get_hangul_hanja_tuples(x):
-    hangul_chars = get_hangul_parts(x[0])
-    hanja_chars = get_hanja_parts(x[1])
-    if 'X' in hanja_chars:
-        return tuple([(hangul_ch, 'X') for hangul_ch in hangul_chars])
+    hangul_substrs = get_hangul_substrs(x[0])
+    hanja_substrs = get_hanja_substrs(x[1])
+    if 'X' in hanja_substrs:
+        return tuple([(hangul_ch, 'X') for hangul_ch in hangul_substrs])
     else:
-        return tuple(zip(hangul_chars, hanja_chars))
+        return tuple(zip(hangul_substrs, hanja_substrs))
 
 
 def add_col_with_parts(lang_df, parts_col_name, col_to_split, func_for_splitting):
@@ -77,33 +88,27 @@ def add_col_with_parts(lang_df, parts_col_name, col_to_split, func_for_splitting
 #
 #     return eng_kor_dict_dup_entries[eng_kor_dict_dup_entries[NUM_ENGLISH_DEFS_COL_NAME] > 1]
 
+def add_col_with_count(_df, col_to_add_count, count_col_name):
+    col_other_than_count = list(set(_df.columns).difference({col_to_add_count}))[0]
 
-def explode_df_by_list_col(lang_df,
-                           list_col,
-                           col_with_parts_name,
-                           num_parts_col_name):
-    lang_df_with_parts = lang_df \
-        .explode(list_col).rename(columns={
-            list_col: col_with_parts_name
-        })
+    num_occ_per_value = _df \
+        .groupby(col_to_add_count) \
+        .agg('count')[col_other_than_count] \
+        .rename(count_col_name)
 
-    ref_cols = set(lang_df_with_parts.columns).difference({col_with_parts_name})
-    ref_col = list(ref_cols)[0]
-
-    num_defs_per_word = lang_df_with_parts \
-        .groupby(col_with_parts_name) \
-        .agg('count')[ref_col] \
-        .rename(num_parts_col_name)
-
-    return lang_df_with_parts \
-        .join(num_defs_per_word, on=col_with_parts_name)
+    return _df.join(num_occ_per_value, on=col_to_add_count)
 
 
 def group_lang_df_by_parts(lang_df,
                            col_to_break_up,
                            func_for_parsing_col,
                            part_col_name,
-                           col_sort_order_after_parts=None):
+                           col_sort_order_after_parts=None,
+                           col_for_counting_num_defs=None,
+                           func_to_call_after_split=None):
+
+    if col_for_counting_num_defs is None:
+        col_for_counting_num_defs = part_col_name
 
     if col_sort_order_after_parts is None:
         col_sort_order_after_parts = []
@@ -119,11 +124,17 @@ def group_lang_df_by_parts(lang_df,
         col_to_break_up,
         func_for_parsing_col)
 
-    lang_df_expanded = explode_df_by_list_col(
-        lang_df_with_parts,
-        col_with_list_of_parts_name,
-        part_col_name,
-        num_parts_col_name)
+    lang_df_expanded = lang_df_with_parts\
+        .explode(col_with_list_of_parts_name).rename(columns={
+            col_with_list_of_parts_name: part_col_name
+        })
+
+    if func_to_call_after_split is not None:
+        lang_df_expanded = func_to_call_after_split(lang_df_expanded)
+
+    lang_df_expanded = add_col_with_count(lang_df_expanded,
+                                          col_for_counting_num_defs,
+                                          num_parts_col_name)
 
     parts_in_multiple_words = lang_df_expanded[
         lang_df_expanded[num_parts_col_name] > 1]
